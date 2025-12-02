@@ -1,0 +1,4 @@
+barrier
+fence
+gate
+obstacle

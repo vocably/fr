@@ -1,0 +1,4 @@
+stove
+burner
+cooker
+warmer

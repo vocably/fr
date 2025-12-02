@@ -1,0 +1,7 @@
+do
+put
+give
+throw
+screw
+mess
+care

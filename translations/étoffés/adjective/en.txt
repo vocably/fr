@@ -1,0 +1,4 @@
+thick
+rich
+detailed
+full

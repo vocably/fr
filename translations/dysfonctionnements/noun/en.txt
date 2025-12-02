@@ -1,0 +1,4 @@
+malfunctions
+disruptions
+failures
+breakdowns

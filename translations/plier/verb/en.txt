@@ -1,0 +1,5 @@
+fold
+bend
+crease
+flex
+double

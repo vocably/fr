@@ -1,0 +1,4 @@
+warn
+alert
+caution
+advise

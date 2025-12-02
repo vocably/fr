@@ -1,0 +1,5 @@
+sector
+area
+field
+zone
+district

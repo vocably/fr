@@ -1,0 +1,4 @@
+rising
+amount
+upward
+ascending

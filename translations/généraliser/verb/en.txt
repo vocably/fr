@@ -1,0 +1,3 @@
+generalize
+spread
+apply

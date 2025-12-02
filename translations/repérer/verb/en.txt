@@ -1,0 +1,5 @@
+spot
+locate
+identify
+detect
+notice

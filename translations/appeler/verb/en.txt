@@ -1,0 +1,5 @@
+call
+name
+summon
+invoke
+appeal

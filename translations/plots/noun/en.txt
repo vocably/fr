@@ -1,0 +1,4 @@
+markers
+pads
+posts
+studs

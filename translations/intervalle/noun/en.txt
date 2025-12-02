@@ -1,0 +1,5 @@
+interval
+gap
+space
+break
+interlude

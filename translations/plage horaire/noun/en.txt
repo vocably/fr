@@ -1,0 +1,3 @@
+time slot
+time window
+schedule slot

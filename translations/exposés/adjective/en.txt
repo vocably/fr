@@ -1,0 +1,4 @@
+exposed
+displayed
+uncovered
+revealed

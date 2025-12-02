@@ -1,0 +1,3 @@
+framed
+outlined
+supervised

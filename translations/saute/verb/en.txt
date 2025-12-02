@@ -1,0 +1,6 @@
+jumps
+jumped
+is jumping
+leaps
+leaped
+is leaping

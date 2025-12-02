@@ -1,0 +1,4 @@
+endowed
+equipped
+furnished
+provided

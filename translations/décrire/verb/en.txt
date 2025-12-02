@@ -1,0 +1,5 @@
+describe
+describing
+described
+will describe
+describes

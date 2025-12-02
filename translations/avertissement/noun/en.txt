@@ -1,0 +1,4 @@
+warning
+caution
+notice
+admonition

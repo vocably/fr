@@ -1,0 +1,3 @@
+counter
+ticket window
+booth

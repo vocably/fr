@@ -1,0 +1,5 @@
+expose
+display
+exhibit
+present
+show

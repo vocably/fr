@@ -1,0 +1,4 @@
+zero
+naught
+nil
+nothing

@@ -1,0 +1,4 @@
+mover
+desplazar
+agitar
+cambiar

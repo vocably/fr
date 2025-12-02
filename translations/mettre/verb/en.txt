@@ -1,0 +1,10 @@
+put
+place
+set
+lay
+wear
+apply
+assign
+establish
+insert
+install

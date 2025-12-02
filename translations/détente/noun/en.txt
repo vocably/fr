@@ -1,0 +1,4 @@
+relaxation
+release
+easing
+loosening

@@ -1,0 +1,4 @@
+kind
+friendly
+amiable
+pleasant

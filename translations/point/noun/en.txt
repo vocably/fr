@@ -1,0 +1,8 @@
+point
+dot
+spot
+period
+mark
+stage
+moment
+detail

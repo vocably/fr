@@ -1,0 +1,4 @@
+endow
+equip
+provide
+furnish

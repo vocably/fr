@@ -1,0 +1,5 @@
+hazards
+risks
+contingencies
+uncertainties
+fluctuations

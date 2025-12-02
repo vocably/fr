@@ -1,0 +1,5 @@
+throw
+launch
+pitch
+fling
+hurl

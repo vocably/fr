@@ -1,0 +1,4 @@
+fence
+closure
+enclosure
+barrier

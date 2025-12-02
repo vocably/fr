@@ -1,0 +1,5 @@
+take
+carry
+bring
+remove
+take away

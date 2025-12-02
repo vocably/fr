@@ -1,0 +1,5 @@
+control
+check
+monitor
+inspect
+supervise

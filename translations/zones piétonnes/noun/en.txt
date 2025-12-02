@@ -1,0 +1,4 @@
+pedestrian zones
+pedestrian areas
+walkways
+car-free zones

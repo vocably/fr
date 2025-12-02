@@ -1,0 +1,5 @@
+indicator
+gauge
+meter
+pointer
+signpost

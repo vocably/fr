@@ -1,0 +1,3 @@
+cooperator
+partner
+collaborator

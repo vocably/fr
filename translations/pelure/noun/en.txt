@@ -1,0 +1,5 @@
+peel
+skin
+rind
+husk
+shell

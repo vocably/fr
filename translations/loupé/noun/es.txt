@@ -1,0 +1,4 @@
+error
+fallo
+desliz
+equivocación

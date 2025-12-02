@@ -1,0 +1,4 @@
+endowed
+equipped
+gifted
+provided

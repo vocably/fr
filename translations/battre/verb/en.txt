@@ -1,0 +1,5 @@
+beat
+hit
+defeat
+whip
+strike

@@ -1,0 +1,5 @@
+cup
+bowl
+cut
+goblet
+trophy

@@ -1,0 +1,5 @@
+hit
+strike
+bump
+collide
+knock

@@ -1,0 +1,5 @@
+plate
+plaque
+tag
+panel
+tablet

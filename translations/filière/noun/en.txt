@@ -1,0 +1,6 @@
+sector
+industry
+channel
+pathway
+stream
+track

@@ -1,0 +1,4 @@
+damage
+ruin
+spoil
+harm

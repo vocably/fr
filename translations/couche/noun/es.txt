@@ -1,0 +1,5 @@
+capa
+couche
+estrato
+piso
+nivel

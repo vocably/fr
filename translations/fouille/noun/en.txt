@@ -1,0 +1,4 @@
+search
+excavation
+dig
+scavenging

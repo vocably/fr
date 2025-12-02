@@ -1,0 +1,6 @@
+transmit
+pass on
+convey
+send
+transfer
+communicate

@@ -1,0 +1,5 @@
+place
+location
+site
+spot
+venue

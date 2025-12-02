@@ -1,0 +1,4 @@
+armored
+reinforced
+bulletproof
+loaded

@@ -1,0 +1,5 @@
+verify
+check
+inspect
+confirm
+validate

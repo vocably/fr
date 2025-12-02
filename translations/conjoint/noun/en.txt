@@ -1,0 +1,4 @@
+spouse
+partner
+husband
+wife

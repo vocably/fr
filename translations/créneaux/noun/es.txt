@@ -1,0 +1,3 @@
+ranuras
+espacios
+huecos

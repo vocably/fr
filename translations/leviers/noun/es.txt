@@ -1,0 +1,3 @@
+palancas
+barras
+mecanismos

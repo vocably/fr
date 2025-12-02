@@ -1,0 +1,4 @@
+collect
+gather
+receive
+harvest

@@ -1,0 +1,4 @@
+forecasts
+predictions
+projections
+estimates

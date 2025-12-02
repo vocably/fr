@@ -1,0 +1,5 @@
+pressure
+stress
+tension
+coercion
+draft (beer)

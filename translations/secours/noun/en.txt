@@ -1,0 +1,5 @@
+help
+aid
+assistance
+relief
+rescue

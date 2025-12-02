@@ -1,0 +1,4 @@
+fresh
+cool
+chilly
+crisp

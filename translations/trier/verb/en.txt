@@ -1,0 +1,5 @@
+sort
+separate
+sift
+classify
+arrange

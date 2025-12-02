@@ -1,0 +1,4 @@
+clear
+clean
+sharp
+distinct

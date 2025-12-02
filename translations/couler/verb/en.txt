@@ -1,0 +1,8 @@
+flow
+sink
+run
+leak
+drip
+trickle
+stream
+pour

@@ -1,0 +1,5 @@
+device
+plan
+arrangement
+apparatus
+scheme

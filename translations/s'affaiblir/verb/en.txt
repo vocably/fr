@@ -1,0 +1,4 @@
+weaken
+grow weak
+diminish
+fade

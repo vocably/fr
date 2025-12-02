@@ -1,0 +1,4 @@
+innsats
+innlegg
+innstilling
+plassering

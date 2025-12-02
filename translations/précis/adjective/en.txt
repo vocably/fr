@@ -1,0 +1,4 @@
+precise
+accurate
+exact
+specific

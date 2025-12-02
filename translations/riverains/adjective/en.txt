@@ -1,0 +1,4 @@
+local residents
+neighbors
+inhabitants
+residents

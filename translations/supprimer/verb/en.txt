@@ -1,0 +1,5 @@
+delete
+remove
+suppress
+eliminate
+cancel

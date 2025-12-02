@@ -1,0 +1,4 @@
+missed
+failed
+unfulfilled
+unsuccessful

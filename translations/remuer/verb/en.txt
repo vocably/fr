@@ -1,0 +1,6 @@
+stir
+move
+shake
+mix
+wag
+shift

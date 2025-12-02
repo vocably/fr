@@ -1,0 +1,4 @@
+connection
+link
+relationship
+bond

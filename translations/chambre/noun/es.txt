@@ -1,0 +1,3 @@
+habitación
+cuarto
+sala

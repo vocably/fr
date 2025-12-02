@@ -1,0 +1,5 @@
+gap
+shift
+discrepancy
+difference
+offset

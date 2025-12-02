@@ -1,0 +1,5 @@
+place
+put
+set
+position
+arrange

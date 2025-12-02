@@ -1,0 +1,5 @@
+cook
+bake
+boil
+fry
+roast

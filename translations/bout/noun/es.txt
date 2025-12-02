@@ -1,0 +1,4 @@
+extremo
+punto
+trozo
+final

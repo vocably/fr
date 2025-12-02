@@ -1,0 +1,4 @@
+allocate
+assign
+grant
+allot

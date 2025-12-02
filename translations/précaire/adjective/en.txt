@@ -1,0 +1,3 @@
+precarious
+unstable
+insecure

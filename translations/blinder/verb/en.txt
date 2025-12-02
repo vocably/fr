@@ -1,0 +1,4 @@
+to armor
+to shield
+to reinforce
+to fortify
