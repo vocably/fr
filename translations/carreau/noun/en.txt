@@ -1,0 +1,4 @@
+tile
+pane
+diamond
+square
