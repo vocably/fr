@@ -1,0 +1,4 @@
+companies
+businesses
+firms
+enterprises

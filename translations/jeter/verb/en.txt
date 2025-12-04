@@ -1,0 +1,5 @@
+throw
+throwing
+threw
+thrown
+throws
