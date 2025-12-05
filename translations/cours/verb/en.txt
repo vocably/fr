@@ -1,0 +1,8 @@
+run
+am running
+is running
+are running
+flow
+am flowing
+is flowing
+are flowing
