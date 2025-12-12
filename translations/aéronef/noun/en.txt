@@ -1,0 +1,6 @@
+aircraft
+airplane
+aeroplane
+airship
+plane
+flying machine

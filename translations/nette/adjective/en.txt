@@ -1,0 +1,10 @@
+clean
+clear
+distinct
+precise
+sharp
+net
+neat
+plain
+unambiguous
+sheer

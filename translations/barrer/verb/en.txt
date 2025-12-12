@@ -1,0 +1,5 @@
+block
+cross out
+bar
+close off
+strike out

@@ -1,0 +1,5 @@
+patron
+sponsor
+benefactor
+arts patron
+financial backer

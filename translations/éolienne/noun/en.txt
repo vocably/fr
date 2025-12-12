@@ -1,0 +1,3 @@
+wind turbine
+wind generator
+aerogenerator

@@ -1,0 +1,5 @@
+location
+localization
+position
+placement
+situating

@@ -1,0 +1,6 @@
+category
+class
+division
+type
+kind
+sort

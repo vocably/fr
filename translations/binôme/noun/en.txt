@@ -1,0 +1,5 @@
+pair
+duo
+team
+partnership
+binomial

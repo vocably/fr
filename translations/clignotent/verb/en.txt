@@ -1,0 +1,4 @@
+blink
+flash
+flicker
+twinkle

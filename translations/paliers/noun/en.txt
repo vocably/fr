@@ -1,0 +1,5 @@
+bearings
+landings
+stages
+levels
+steps
