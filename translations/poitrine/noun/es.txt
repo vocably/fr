@@ -1,0 +1,5 @@
+pecho
+torso
+tórax
+falda
+pechuga

@@ -1,0 +1,5 @@
+convenience
+amenity
+facility
+comfort
+advantage

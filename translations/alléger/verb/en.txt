@@ -1,0 +1,5 @@
+lighten
+reduce
+ease
+alleviate
+lessen

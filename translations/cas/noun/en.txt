@@ -1,0 +1,10 @@
+case
+instance
+situation
+circumstance
+matter
+question
+issue
+occurrence
+event
+phenomenon

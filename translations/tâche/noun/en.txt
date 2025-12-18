@@ -1,0 +1,6 @@
+task
+job
+duty
+stain
+spot
+mark

@@ -1,0 +1,8 @@
+example
+case
+model
+instance
+sample
+pattern
+paradigm
+exemplar

@@ -1,0 +1,10 @@
+map
+plan
+layout
+diagram
+blueprint
+chart
+drawing
+scheme
+design
+project

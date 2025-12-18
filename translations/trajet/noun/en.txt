@@ -1,0 +1,7 @@
+journey
+trip
+travel
+route
+path
+course
+distance

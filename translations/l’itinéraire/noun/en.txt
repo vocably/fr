@@ -1,0 +1,8 @@
+itinerary
+route
+way
+journey
+travel plan
+course
+path
+road

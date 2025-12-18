@@ -1,0 +1,5 @@
+language
+speech
+discourse
+tongue
+wording

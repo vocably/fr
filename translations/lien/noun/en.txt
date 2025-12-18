@@ -1,0 +1,8 @@
+link
+bond
+tie
+attachment
+connection
+relationship
+constraint
+obligation

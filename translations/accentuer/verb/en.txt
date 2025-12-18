@@ -1,0 +1,9 @@
+accent
+emphasize
+stress
+highlight
+underline
+increase
+intensify
+heighten
+strengthen
