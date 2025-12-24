@@ -1,0 +1,5 @@
+apartment
+flat
+suite
+room
+pad

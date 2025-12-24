@@ -1,0 +1,8 @@
+position
+job
+post
+office
+place
+station
+set
+receiver

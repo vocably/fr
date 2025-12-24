@@ -1,0 +1,4 @@
+to park
+to shelter
+to garage
+to put away

@@ -1,0 +1,6 @@
+dictionary
+lexicon
+encyclopedia
+thesaurus
+glossary
+vocabulary

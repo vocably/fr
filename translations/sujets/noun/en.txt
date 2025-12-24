@@ -1,0 +1,8 @@
+subjects
+topics
+people
+individuals
+themes
+matters
+issues
+objects of study

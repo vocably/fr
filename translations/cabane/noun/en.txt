@@ -1,0 +1,4 @@
+cabin
+hut
+shack
+shed

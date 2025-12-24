@@ -1,0 +1,5 @@
+shoe
+footwear
+boot
+sandal
+slipper

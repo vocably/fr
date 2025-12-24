@@ -1,0 +1,7 @@
+spring
+coil
+domain
+purview
+resort
+essence
+crux

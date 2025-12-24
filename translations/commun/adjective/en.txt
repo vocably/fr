@@ -1,0 +1,7 @@
+common
+joint
+general
+ordinary
+current
+everyday
+public

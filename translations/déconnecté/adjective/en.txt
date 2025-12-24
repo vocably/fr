@@ -1,0 +1,4 @@
+disconnected
+offline
+unplugged
+unconnected

@@ -1,0 +1,8 @@
+remark
+observation
+note
+comment
+point
+statement
+annotation
+gloss

@@ -1,0 +1,4 @@
+hotel
+mansion
+town hall
+city hall

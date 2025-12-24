@@ -1,0 +1,5 @@
+walk
+gait
+progress
+operation
+running

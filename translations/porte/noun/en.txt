@@ -1,0 +1,6 @@
+doorway
+door
+gate
+portal
+entryway
+hatch

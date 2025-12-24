@@ -1,0 +1,6 @@
+stake
+post
+marker
+landmark
+milestone
+benchmark

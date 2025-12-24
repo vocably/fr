@@ -1,0 +1,6 @@
+gears
+gear train
+cogs
+machinery
+works
+mechanism

@@ -1,0 +1,8 @@
+painting
+picture
+board
+scene
+chart
+table
+display
+tableau

@@ -1,0 +1,5 @@
+student
+pupil
+trainee
+apprentice
+disciple

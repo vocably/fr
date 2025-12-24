@@ -1,0 +1,7 @@
+cooking
+baking
+roasting
+frying
+broiling
+doneness
+cooking time

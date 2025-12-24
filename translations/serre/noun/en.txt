@@ -1,0 +1,7 @@
+greenhouse
+talon
+grip
+claw
+squeeze
+press
+clasp

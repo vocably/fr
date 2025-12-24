@@ -1,0 +1,5 @@
+winner
+recipient
+awardee
+prize-winner
+laureate

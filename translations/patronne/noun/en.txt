@@ -1,0 +1,7 @@
+boss
+owner
+manager
+employer
+proprietor
+forewoman
+head

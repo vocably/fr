@@ -1,0 +1,8 @@
+head
+leader
+chief
+boss
+manager
+commander
+cook
+chef

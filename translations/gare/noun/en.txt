@@ -1,0 +1,7 @@
+station
+train station
+railway station
+bus station
+terminal
+port
+dock

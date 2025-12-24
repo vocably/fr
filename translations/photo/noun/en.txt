@@ -1,0 +1,6 @@
+photo
+photograph
+picture
+shot
+print
+still

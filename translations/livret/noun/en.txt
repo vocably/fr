@@ -1,0 +1,7 @@
+booklet
+notebook
+passbook
+manual
+pamphlet
+leaflet
+handbook

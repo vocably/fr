@@ -1,0 +1,5 @@
+teacher
+schoolteacher
+elementary school teacher
+primary school teacher
+grade school teacher

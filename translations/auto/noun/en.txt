@@ -1,0 +1,4 @@
+car
+automobile
+motor vehicle
+vehicle

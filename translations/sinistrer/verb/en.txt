@@ -1,0 +1,5 @@
+to damage
+to destroy
+to be damaged
+to be destroyed
+to declare as damaged

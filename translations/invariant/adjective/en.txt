@@ -1,0 +1,7 @@
+invariant
+constant
+unchanging
+unvarying
+stable
+fixed
+immutable

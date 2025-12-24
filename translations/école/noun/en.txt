@@ -1,0 +1,9 @@
+school
+academy
+institute
+college
+university
+students
+pupils
+faculty
+staff

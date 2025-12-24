@@ -1,0 +1,4 @@
+bed
+cot
+bunk
+berth

@@ -1,0 +1,6 @@
+faculty
+ability
+power
+capacity
+department
+school

@@ -1,0 +1,5 @@
+teacher
+schoolteacher
+instructor
+educator
+lecturer

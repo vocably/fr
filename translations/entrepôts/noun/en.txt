@@ -1,0 +1,5 @@
+warehouse
+depot
+storehouse
+storage facility
+bonded warehouse

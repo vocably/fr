@@ -1,0 +1,8 @@
+subject
+topic
+citizen
+national
+theme
+matter
+individual
+person

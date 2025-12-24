@@ -1,0 +1,4 @@
+invariant
+constant
+unchanging value
+unchanging property

@@ -1,0 +1,5 @@
+shack
+hovel
+lean-to
+makeshift shelter
+crude hut

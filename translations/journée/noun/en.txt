@@ -1,0 +1,6 @@
+day
+daytime
+workday
+day's work
+event
+period

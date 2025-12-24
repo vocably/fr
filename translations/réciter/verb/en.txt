@@ -1,0 +1,5 @@
+recite
+declaim
+deliver
+report
+tell
