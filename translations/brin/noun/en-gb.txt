@@ -1,0 +1,6 @@
+strand
+bit
+sprig
+blade
+shoot
+wisp

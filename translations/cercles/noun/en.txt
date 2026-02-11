@@ -1,0 +1,9 @@
+circles
+groups
+rings
+sets
+societies
+clubs
+spheres
+domains
+realms

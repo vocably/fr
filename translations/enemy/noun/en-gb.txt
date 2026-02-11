@@ -1,0 +1,7 @@
+enemy
+foe
+opponent
+adversary
+rival
+antagonist
+the enemy

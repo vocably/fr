@@ -1,0 +1,9 @@
+room
+hall
+place
+area
+space
+chamber
+gallery
+warehouse
+storeroom

@@ -1,0 +1,5 @@
+fragment
+piece
+breakage
+breaking
+shattering

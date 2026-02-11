@@ -1,0 +1,5 @@
+to jump
+to start
+to flinch
+to be startled
+to give a start

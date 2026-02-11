@@ -1,0 +1,5 @@
+figure
+shape
+person
+diagram
+illustration

@@ -1,0 +1,5 @@
+scientist
+scholar
+researcher
+man of science
+woman of science

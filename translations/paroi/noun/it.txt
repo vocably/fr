@@ -1,0 +1,4 @@
+parete
+muro
+diaframma
+setto

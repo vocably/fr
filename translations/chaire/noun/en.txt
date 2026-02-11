@@ -1,0 +1,4 @@
+professorship
+chair
+lectern
+pulpit

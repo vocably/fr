@@ -1,0 +1,8 @@
+bark
+howl
+bay
+shout
+yell
+clamor
+demand
+insist

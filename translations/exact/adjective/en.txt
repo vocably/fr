@@ -1,0 +1,5 @@
+exact
+accurate
+precise
+rigorous
+strict

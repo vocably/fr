@@ -1,0 +1,10 @@
+type
+kind
+category
+sort
+model
+sample
+specimen
+font
+typeface
+print

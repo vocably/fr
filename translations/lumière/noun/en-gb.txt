@@ -1,0 +1,7 @@
+light
+illumination
+brightness
+radiance
+understanding
+reason
+intellect

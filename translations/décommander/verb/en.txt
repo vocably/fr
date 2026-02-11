@@ -1,0 +1,5 @@
+cancel
+call off
+cancel an order
+cancel an invitation
+cancel an appointment

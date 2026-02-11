@@ -1,0 +1,9 @@
+clear
+release
+emit
+produce
+disengage
+free
+extricate
+generate
+obtain

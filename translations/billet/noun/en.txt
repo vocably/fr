@@ -1,0 +1,8 @@
+ticket
+note
+bill
+paper
+card
+short article
+brief message
+reservation

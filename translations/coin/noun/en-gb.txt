@@ -1,0 +1,5 @@
+corner
+angle
+nook
+recess
+extremity

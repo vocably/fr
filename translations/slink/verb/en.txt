@@ -1,0 +1,5 @@
+slink
+sneak
+creep
+slip
+abort

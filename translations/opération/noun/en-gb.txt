@@ -1,0 +1,5 @@
+operation
+procedure
+transaction
+manoeuvre
+exercise

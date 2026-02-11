@@ -1,0 +1,6 @@
+posición
+puesto
+cargo
+postura
+ubicación
+emplazamiento

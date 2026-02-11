@@ -1,0 +1,8 @@
+receive
+get
+welcome
+greet
+suffer
+undergo
+obtain
+perceive

@@ -1,0 +1,4 @@
+poetry
+poem
+poetic quality
+poetic dimension

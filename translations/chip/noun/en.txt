@@ -1,0 +1,5 @@
+chip
+piece
+fragment
+splinter
+shard

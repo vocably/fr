@@ -1,0 +1,6 @@
+beer mug
+stein
+mug
+tankard
+a mug of beer
+a stein of beer

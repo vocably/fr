@@ -1,0 +1,6 @@
+limp
+hobble
+walk with a limp
+walk with difficulty
+falter
+stumble

@@ -1,0 +1,7 @@
+deny
+disown
+renounce
+forsake
+abandon
+repudiate
+reject

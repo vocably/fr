@@ -1,0 +1,8 @@
+cabinet
+cupboard
+closet
+office
+study
+advisers
+council
+ministry

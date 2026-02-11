@@ -1,0 +1,4 @@
+level
+stage
+skill level
+stratum

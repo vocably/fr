@@ -1,0 +1,10 @@
+species
+kind
+sort
+type
+variety
+breed
+class
+genus
+example
+specimen

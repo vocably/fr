@@ -1,0 +1,5 @@
+province
+state
+region
+the provinces
+the country

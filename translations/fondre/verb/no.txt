@@ -1,0 +1,4 @@
+smelte
+smelte bort
+bli rørt
+styrte

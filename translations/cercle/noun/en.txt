@@ -1,0 +1,8 @@
+circle
+ring
+group
+set
+clique
+enclosure
+arena
+field

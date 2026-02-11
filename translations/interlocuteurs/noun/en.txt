@@ -1,0 +1,4 @@
+speakers
+negotiators
+interlocutors
+parties

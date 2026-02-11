@@ -1,0 +1,7 @@
+lever
+crowbar
+bar
+tool
+means
+instrument
+fulcrum

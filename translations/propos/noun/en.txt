@@ -1,0 +1,6 @@
+remark
+comment
+statement
+word
+subject
+point

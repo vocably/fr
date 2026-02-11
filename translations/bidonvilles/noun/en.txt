@@ -1,0 +1,4 @@
+slums
+shantytowns
+squatter settlements
+bidonvilles

@@ -1,0 +1,6 @@
+pedestal
+base
+plinth
+foundation
+stand
+support

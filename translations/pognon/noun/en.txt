@@ -1,0 +1,5 @@
+money
+cash
+dough
+loot
+moolah

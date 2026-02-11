@@ -1,0 +1,5 @@
+stem
+stalk
+rod
+shank
+shaft

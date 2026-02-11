@@ -1,0 +1,3 @@
+host country
+receiving country
+hospitable country

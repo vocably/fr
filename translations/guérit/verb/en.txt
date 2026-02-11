@@ -1,0 +1,8 @@
+heals
+cures
+recovers
+gets better
+treats
+remedies
+ends
+stops

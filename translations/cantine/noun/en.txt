@@ -1,0 +1,7 @@
+cafeteria
+canteen
+mess hall
+lunchroom
+tuck shop
+kit box
+mess kit

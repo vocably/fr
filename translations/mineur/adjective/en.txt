@@ -1,0 +1,4 @@
+minor
+secondary
+unimportant
+underage

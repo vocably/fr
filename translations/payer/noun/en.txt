@@ -1,0 +1,4 @@
+payer
+payor
+instrument of payment
+means of payment

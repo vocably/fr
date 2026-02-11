@@ -1,0 +1,6 @@
+control
+mastery
+command
+grasp
+proficiency
+master's degree

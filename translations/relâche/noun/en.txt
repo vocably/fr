@@ -1,0 +1,5 @@
+break
+intermission
+recess
+suspension
+pause

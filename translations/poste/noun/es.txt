@@ -1,0 +1,7 @@
+puesto
+cargo
+empleo
+emisora
+receptor
+radio
+televisor

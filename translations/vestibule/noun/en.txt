@@ -1,0 +1,5 @@
+vestibule
+lobby
+entrance hall
+foyer
+entryway

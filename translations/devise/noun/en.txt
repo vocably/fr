@@ -1,0 +1,5 @@
+currency
+motto
+foreign currency
+slogan
+emblem

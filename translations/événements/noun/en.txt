@@ -1,0 +1,8 @@
+event
+occurrence
+happening
+incident
+affair
+circumstance
+episode
+milestone

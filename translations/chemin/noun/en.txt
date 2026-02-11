@@ -1,0 +1,7 @@
+path
+way
+route
+track
+road
+course
+means

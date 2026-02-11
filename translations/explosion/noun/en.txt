@@ -1,0 +1,5 @@
+explosion
+outburst
+burst
+boom
+surge

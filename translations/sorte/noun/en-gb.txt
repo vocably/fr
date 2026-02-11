@@ -1,0 +1,5 @@
+kind
+sort
+type
+genre
+species

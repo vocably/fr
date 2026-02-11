@@ -1,0 +1,5 @@
+accommodation
+lodging
+housing
+shelter
+hosting

@@ -1,0 +1,4 @@
+limp
+lameness
+hobble
+stumble

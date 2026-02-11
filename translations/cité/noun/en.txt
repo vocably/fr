@@ -1,0 +1,5 @@
+city
+town
+downtown
+historic district
+campus

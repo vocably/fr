@@ -1,0 +1,5 @@
+closet
+cupboard
+poster
+bill
+placard

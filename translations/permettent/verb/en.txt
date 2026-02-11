@@ -1,0 +1,6 @@
+allow
+enable
+make possible
+permit
+provide
+offer

@@ -1,0 +1,4 @@
+loan
+lending
+advance
+credit

@@ -1,0 +1,3 @@
+majority
+plurality
+legal age

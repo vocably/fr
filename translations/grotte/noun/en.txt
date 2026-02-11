@@ -1,0 +1,5 @@
+cave
+grotto
+cavern
+den
+shelter

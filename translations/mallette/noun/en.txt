@@ -1,0 +1,5 @@
+briefcase
+suitcase
+case
+toolbox
+kit

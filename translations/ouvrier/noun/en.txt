@@ -1,0 +1,5 @@
+worker
+laborer
+manual worker
+industrial worker
+blue-collar worker
