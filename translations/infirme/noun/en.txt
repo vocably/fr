@@ -1,0 +1,2 @@
+disabled person
+invalid

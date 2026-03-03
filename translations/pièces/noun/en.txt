@@ -1,0 +1,4 @@
+pieces
+coins
+parts
+plays

@@ -1,0 +1,4 @@
+desk
+office
+agency
+board

@@ -1,0 +1,4 @@
+go down
+get off
+take down
+kill
