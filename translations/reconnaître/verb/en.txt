@@ -1,5 +1,1 @@
-recognize
-acknowledge
-identify
-admit
-confess
+["recognize","admit","scout","acknowledge"]

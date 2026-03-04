@@ -1,0 +1,1 @@
+["razporeditev","ureditev","nagnjenje","razpolaganje","določba"]

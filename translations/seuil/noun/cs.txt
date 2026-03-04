@@ -1,0 +1,1 @@
+["práh","vstup","hranice","mez"]
