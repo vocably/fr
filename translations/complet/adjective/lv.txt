@@ -1,1 +1,3 @@
-["pilnīgs","pabeigts","aizņemts"]
+pilnīgs
+pabeigts
+aizņemts

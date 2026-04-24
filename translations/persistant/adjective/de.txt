@@ -1,1 +1,3 @@
-["dauerhaft","hartnäckig","persistent"]
+dauerhaft
+hartnäckig
+persistent

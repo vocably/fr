@@ -1,1 +1,3 @@
-["bevisa","motivera","rättfärdiga"]
+bevisa
+motivera
+rättfärdiga

@@ -1,1 +1,3 @@
-["to consider","to examine","to take into account"]
+to consider
+to examine
+to take into account

@@ -1,1 +1,3 @@
-["preučiti","meniti","upoštevati"]
+preučiti
+meniti
+upoštevati

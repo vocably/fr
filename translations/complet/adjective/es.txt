@@ -1,1 +1,3 @@
-["completo","lleno","total"]
+completo
+lleno
+total

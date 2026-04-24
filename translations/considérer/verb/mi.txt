@@ -1,1 +1,3 @@
-["whakaaro","titiro","aromatawai"]
+whakaaro
+titiro
+aromatawai

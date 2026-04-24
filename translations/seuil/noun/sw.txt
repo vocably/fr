@@ -1,1 +1,4 @@
-["kizingiti","mlango","mpaka","kiwango"]
+kizingiti
+mlango
+mpaka
+kiwango

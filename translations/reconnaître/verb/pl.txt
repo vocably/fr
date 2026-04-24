@@ -1,1 +1,4 @@
-["rozpoznawać","uznawać","badać","doceniać"]
+rozpoznawać
+uznawać
+badać
+doceniać

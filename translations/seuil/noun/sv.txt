@@ -1,1 +1,4 @@
-["tröskel","ingång","gräns","nivå"]
+tröskel
+ingång
+gräns
+nivå

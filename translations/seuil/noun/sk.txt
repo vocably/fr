@@ -1,1 +1,4 @@
-["prah","hranica","vstup","limit"]
+prah
+hranica
+vstup
+limit

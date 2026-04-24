@@ -1,1 +1,2 @@
-["försiktig","klok"]
+försiktig
+klok

@@ -1,1 +1,3 @@
-["iloilo","manatu","tāgai"]
+iloilo
+manatu
+tāgai

@@ -1,1 +1,2 @@
-["tregur","fálátur"]
+tregur
+fálátur

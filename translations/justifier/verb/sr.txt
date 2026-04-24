@@ -1,1 +1,3 @@
-["opravdati","dokazati","opravdavati"]
+opravdati
+dokazati
+opravdavati

@@ -1,1 +1,2 @@
-["apurka-apurka","poliki-poliki"]
+apurka-apurka
+poliki-poliki

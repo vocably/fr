@@ -1,1 +1,3 @@
-["jangkep","wutuh","tutug"]
+jangkep
+wutuh
+tutug

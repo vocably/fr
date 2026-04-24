@@ -1,1 +1,2 @@
-["posebice","osobito"]
+posebice
+osobito

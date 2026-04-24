@@ -1,1 +1,2 @@
-["sinnikkyys","sitkeys"]
+sinnikkyys
+sitkeys

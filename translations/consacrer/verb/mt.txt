@@ -1,1 +1,3 @@
-["jikkonsagra","jiddedika","jissanzjona"]
+jikkonsagra
+jiddedika
+jissanzjona

@@ -1,1 +1,4 @@
-["küszöb","bejárat","határ","szint"]
+küszöb
+bejárat
+határ
+szint

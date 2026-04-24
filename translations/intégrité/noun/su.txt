@@ -1,1 +1,2 @@
-["gembleng","jujur"]
+gembleng
+jujur

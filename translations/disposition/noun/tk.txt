@@ -1,1 +1,5 @@
-["yerleşdirmek","gurnamak","düzgün","niýet","karar"]
+yerleşdirmek
+gurnamak
+düzgün
+niýet
+karar

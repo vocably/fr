@@ -1,1 +1,3 @@
-["ikkunsidra","qies","ikkontempla"]
+ikkunsidra
+qies
+ikkontempla

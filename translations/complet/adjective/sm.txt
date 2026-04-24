@@ -1,1 +1,3 @@
-["atoa","tumu","maea"]
+atoa
+tumu
+maea

@@ -1,1 +1,2 @@
-["circa","intorno"]
+circa
+intorno

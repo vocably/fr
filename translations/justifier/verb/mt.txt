@@ -1,1 +1,3 @@
-["iġġustifika","jiġġustifika","tiġġustifika"]
+iġġustifika
+jiġġustifika
+tiġġustifika

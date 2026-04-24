@@ -1,1 +1,4 @@
-["próg","wejście","granica","poziom"]
+próg
+wejście
+granica
+poziom

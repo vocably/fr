@@ -1,1 +1,2 @@
-["terviklikkus","ausus"]
+terviklikkus
+ausus

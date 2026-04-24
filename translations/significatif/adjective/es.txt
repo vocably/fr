@@ -1,1 +1,2 @@
-["significativo","revelador"]
+significativo
+revelador

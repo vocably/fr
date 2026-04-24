@@ -1,1 +1,3 @@
-["pé","kún","gbogbo"]
+pé
+kún
+gbogbo

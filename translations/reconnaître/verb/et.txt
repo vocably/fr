@@ -1,1 +1,4 @@
-["tundma","ära tundma","tunnistama","hindama"]
+tundma
+ära tundma
+tunnistama
+hindama

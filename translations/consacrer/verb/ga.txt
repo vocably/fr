@@ -1,1 +1,3 @@
-["coisric","caitheadh","daingnigh"]
+coisric
+caitheadh
+daingnigh

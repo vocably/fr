@@ -1,1 +1,2 @@
-["merkingarbær","mikilvægur"]
+merkingarbær
+mikilvægur

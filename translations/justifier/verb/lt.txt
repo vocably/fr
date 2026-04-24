@@ -1,1 +1,3 @@
-["pagrįsti","pateisinti","įrodyti"]
+pagrįsti
+pateisinti
+įrodyti

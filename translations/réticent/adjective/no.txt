@@ -1,1 +1,2 @@
-["motvillig","tilbakeholden"]
+motvillig
+tilbakeholden

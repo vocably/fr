@@ -1,1 +1,5 @@
-["makonzedwe","kasanjidwe","maganizo","mphamvu","lamulo"]
+makonzedwe
+kasanjidwe
+maganizo
+mphamvu
+lamulo

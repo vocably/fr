@@ -1,1 +1,2 @@
-["bedeitend","aussagekräftech"]
+bedeitend
+aussagekräftech

@@ -1,1 +1,2 @@
-["mean air mhean","beag air bheag"]
+mean air mhean
+beag air bheag

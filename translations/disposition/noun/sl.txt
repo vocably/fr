@@ -1,1 +1,5 @@
-["razporeditev","ureditev","nagnjenje","razpolaganje","določba"]
+razporeditev
+ureditev
+nagnjenje
+razpolaganje
+določba

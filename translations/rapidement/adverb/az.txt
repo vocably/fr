@@ -1,1 +1,2 @@
-["sürətlə","tez"]
+sürətlə
+tez

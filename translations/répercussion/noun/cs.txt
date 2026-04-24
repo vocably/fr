@@ -1,1 +1,2 @@
-["dopad","ozvěna"]
+dopad
+ozvěna

@@ -1,1 +1,2 @@
-["anlamlı","önemli"]
+anlamlı
+önemli

@@ -1,1 +1,2 @@
-["embung","sungkan"]
+embung
+sungkan

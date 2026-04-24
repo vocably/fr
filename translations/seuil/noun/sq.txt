@@ -1,1 +1,4 @@
-["prag","derë","kufi","nivel"]
+prag
+derë
+kufi
+nivel

@@ -1,1 +1,3 @@
-["eredmény","következmény","végeredmény"]
+eredmény
+következmény
+végeredmény

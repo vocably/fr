@@ -1,1 +1,3 @@
-["vedvarende","ihærdig","blivende"]
+vedvarende
+ihærdig
+blivende

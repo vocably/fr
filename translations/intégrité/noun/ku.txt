@@ -1,1 +1,2 @@
-["yekpareyî","rastgoî"]
+yekpareyî
+rastgoî

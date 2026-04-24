@@ -1,1 +1,2 @@
-["vuba","byihuse"]
+vuba
+byihuse

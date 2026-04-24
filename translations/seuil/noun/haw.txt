@@ -1,1 +1,4 @@
-["paepae","puka","mole","kūpuka"]
+paepae
+puka
+mole
+kūpuka

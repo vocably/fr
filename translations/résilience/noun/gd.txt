@@ -1,1 +1,2 @@
-["seasmhachd","comas-faighinn-seachad"]
+seasmhachd
+comas-faighinn-seachad

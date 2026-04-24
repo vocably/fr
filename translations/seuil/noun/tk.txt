@@ -1,1 +1,4 @@
-["bosaga","eşik","başlangyç","minimum"]
+bosaga
+eşik
+başlangyç
+minimum

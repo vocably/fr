@@ -1,1 +1,3 @@
-["tartós","kitartó","maradó"]
+tartós
+kitartó
+maradó

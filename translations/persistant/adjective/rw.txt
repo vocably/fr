@@ -1,1 +1,3 @@
-["Ihoraho","Udahwema","Ukomera"]
+Ihoraho
+Udahwema
+Ukomera

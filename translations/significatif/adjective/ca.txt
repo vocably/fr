@@ -1,1 +1,2 @@
-["significatiu","rellevant"]
+significatiu
+rellevant

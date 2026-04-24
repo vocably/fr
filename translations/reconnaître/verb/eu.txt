@@ -1,1 +1,4 @@
-["ezagutu","onartu","aitortu","eskertu"]
+ezagutu
+onartu
+aitortu
+eskertu

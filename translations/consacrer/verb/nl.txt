@@ -1,1 +1,3 @@
-["wijden","besteden","heiligen"]
+wijden
+besteden
+heiligen

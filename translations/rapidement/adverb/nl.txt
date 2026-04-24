@@ -1,1 +1,2 @@
-["snel","rap"]
+snel
+rap

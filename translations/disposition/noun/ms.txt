@@ -1,1 +1,5 @@
-["susunan","aturan","keadaan","kecenderungan","peruntukan"]
+susunan
+aturan
+keadaan
+kecenderungan
+peruntukan

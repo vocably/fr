@@ -1,1 +1,3 @@
-["lêkolîn kirin","hesibandin","rêzgirtin"]
+lêkolîn kirin
+hesibandin
+rêzgirtin

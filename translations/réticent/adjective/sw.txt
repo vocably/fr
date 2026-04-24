@@ -1,1 +1,2 @@
-["kusitasita","mwenye kusita"]
+kusitasita
+mwenye kusita

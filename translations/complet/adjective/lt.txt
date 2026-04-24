@@ -1,1 +1,3 @@
-["išsamus","pilnas","visiškas"]
+išsamus
+pilnas
+visiškas

@@ -1,1 +1,3 @@
-["Zotsatira","Chotulukira","Mphambu"]
+Zotsatira
+Chotulukira
+Mphambu

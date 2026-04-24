@@ -1,1 +1,5 @@
-["tokiso","thulaganyo","boemo","tshwanelo","molao"]
+tokiso
+thulaganyo
+boemo
+tshwanelo
+molao

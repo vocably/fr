@@ -1,1 +1,4 @@
-["genkende","anerkende","erkende","rekognoscere"]
+genkende
+anerkende
+erkende
+rekognoscere

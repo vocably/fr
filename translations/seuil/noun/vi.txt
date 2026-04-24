@@ -1,1 +1,4 @@
-["ngưỡng cửa","ngưỡng","bậu cửa","mức tối thiểu"]
+ngưỡng cửa
+ngưỡng
+bậu cửa
+mức tối thiểu

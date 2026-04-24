@@ -1,1 +1,2 @@
-["restio","perplesso"]
+restio
+perplesso

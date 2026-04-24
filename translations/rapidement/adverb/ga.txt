@@ -1,1 +1,2 @@
-["go tapa","go luath"]
+go tapa
+go luath

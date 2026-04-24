@@ -1,1 +1,3 @@
-["cyfiawnhau","profion","dilysu"]
+cyfiawnhau
+profion
+dilysu

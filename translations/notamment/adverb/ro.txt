@@ -1,1 +1,2 @@
-["mai ales","îndeosebi"]
+mai ales
+îndeosebi

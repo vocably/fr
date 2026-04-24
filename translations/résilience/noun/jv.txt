@@ -1,1 +1,2 @@
-["daya tahan","kelenturan"]
+daya tahan
+kelenturan

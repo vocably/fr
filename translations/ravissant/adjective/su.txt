@@ -1,1 +1,2 @@
-["éndah","lucu"]
+éndah
+lucu

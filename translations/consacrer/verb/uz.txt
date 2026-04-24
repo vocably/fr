@@ -1,1 +1,3 @@
-["bag'ishlamoq","ajratmoq","tasdiqlamoq"]
+bag'ishlamoq
+ajratmoq
+tasdiqlamoq

@@ -1,1 +1,5 @@
-["raspolaganje","raspored","uređenje","sklonost","odredba"]
+raspolaganje
+raspored
+uređenje
+sklonost
+odredba

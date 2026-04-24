@@ -1,1 +1,2 @@
-["seigla","viðnám"]
+seigla
+viðnám

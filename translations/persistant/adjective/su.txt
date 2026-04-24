@@ -1,1 +1,3 @@
-["awet","kukuh","teu lesot"]
+awet
+kukuh
+teu lesot

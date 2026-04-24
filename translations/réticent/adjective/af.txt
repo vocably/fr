@@ -1,1 +1,2 @@
-["terughoudend","weerstrewig"]
+terughoudend
+weerstrewig

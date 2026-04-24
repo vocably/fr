@@ -1,1 +1,2 @@
-["jelentőségteljes","jelentős"]
+jelentőségteljes
+jelentős

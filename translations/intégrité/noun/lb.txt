@@ -1,1 +1,2 @@
-["Onbescholtenheet","Éierlechkeet"]
+Onbescholtenheet
+Éierlechkeet

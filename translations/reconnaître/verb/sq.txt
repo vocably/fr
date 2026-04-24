@@ -1,1 +1,4 @@
-["njoh","pranoj","identifikoj","mirënjoh"]
+njoh
+pranoj
+identifikoj
+mirënjoh

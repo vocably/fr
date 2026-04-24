@@ -1,1 +1,2 @@
-["hauv nruab siab","hauv nruab lus"]
+hauv nruab siab
+hauv nruab lus

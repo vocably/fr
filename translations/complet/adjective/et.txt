@@ -1,1 +1,3 @@
-["täielik","terviklik","komplektne"]
+täielik
+terviklik
+komplektne

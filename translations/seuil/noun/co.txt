@@ -1,1 +1,4 @@
-["sogliu","limitu","principiu","basamentu"]
+sogliu
+limitu
+principiu
+basamentu

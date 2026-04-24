@@ -1,1 +1,3 @@
-["to consecrate","to dedicate","to sanction"]
+to consecrate
+to dedicate
+to sanction

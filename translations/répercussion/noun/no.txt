@@ -1,1 +1,2 @@
-["ettervirkning","gjenklang"]
+ettervirkning
+gjenklang

@@ -1,1 +1,2 @@
-["whakaroaroa","ngakau rua"]
+whakaroaroa
+ngakau rua

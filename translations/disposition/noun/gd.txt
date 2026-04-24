@@ -1,1 +1,5 @@
-["rèiteachadh","cur-air- dòigh","òrdan","ullachadh","toileachas"]
+rèiteachadh
+cur-air- dòigh
+òrdan
+ullachadh
+toileachas

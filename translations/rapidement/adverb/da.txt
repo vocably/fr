@@ -1,1 +1,2 @@
-["hurtigt","rapidt"]
+hurtigt
+rapidt

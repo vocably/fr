@@ -1,1 +1,3 @@
-["tohe","pūmau","manawa roa"]
+tohe
+pūmau
+manawa roa

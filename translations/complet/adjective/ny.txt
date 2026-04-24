@@ -1,1 +1,3 @@
-["wodzaza","wathunthu","wonse"]
+wodzaza
+wathunthu
+wonse

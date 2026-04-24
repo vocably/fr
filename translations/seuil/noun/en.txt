@@ -1,1 +1,4 @@
-["threshold","doorstep","sill","brink"]
+threshold
+doorstep
+sill
+brink

@@ -1,1 +1,2 @@
-["bütövlük","dürüstlük"]
+bütövlük
+dürüstlük

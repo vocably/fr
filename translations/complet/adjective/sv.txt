@@ -1,1 +1,3 @@
-["komplett","fullständig","hel"]
+komplett
+fullständig
+hel

@@ -1,1 +1,2 @@
-["siyifikatif","enpòtan"]
+siyifikatif
+enpòtan

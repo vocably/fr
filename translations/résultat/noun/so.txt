@@ -1,1 +1,3 @@
-["natiijo","saamayn","dhibco"]
+natiijo
+saamayn
+dhibco

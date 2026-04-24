@@ -1,1 +1,3 @@
-["weihen","widmen","bestätigen"]
+weihen
+widmen
+bestätigen

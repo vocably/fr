@@ -1,1 +1,3 @@
-["uzasadniać","usprawiedliwiać","dowodzić"]
+uzasadniać
+usprawiedliwiać
+dowodzić

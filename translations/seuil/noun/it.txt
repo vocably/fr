@@ -1,1 +1,4 @@
-["soglia","ingresso","limite","livello"]
+soglia
+ingresso
+limite
+livello

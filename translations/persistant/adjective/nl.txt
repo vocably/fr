@@ -1,1 +1,3 @@
-["aanhoudend","hardnekkig","blijvend"]
+aanhoudend
+hardnekkig
+blijvend

@@ -1,1 +1,3 @@
-["sagartu","eskaini","baieztatu"]
+sagartu
+eskaini
+baieztatu

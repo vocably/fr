@@ -1,1 +1,4 @@
-["drempel","dorpel","grens","begin"]
+drempel
+dorpel
+grens
+begin

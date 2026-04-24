@@ -1,1 +1,5 @@
-["faʻatulagaga","fuafuaga","finagalo","pule","tulafono"]
+faʻatulagaga
+fuafuaga
+finagalo
+pule
+tulafono

@@ -1,1 +1,2 @@
-["loukkaamattomuus","rehellisyys"]
+loukkaamattomuus
+rehellisyys

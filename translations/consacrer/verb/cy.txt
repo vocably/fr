@@ -1,1 +1,3 @@
-["cysegru","neilltuo","cadarnhau"]
+cysegru
+neilltuo
+cadarnhau

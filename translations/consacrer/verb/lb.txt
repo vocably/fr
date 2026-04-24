@@ -1,1 +1,3 @@
-["weien","widmen","hellegen"]
+weien
+widmen
+hellegen

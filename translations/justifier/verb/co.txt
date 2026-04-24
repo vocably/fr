@@ -1,1 +1,3 @@
-["ghjustificà","dimustrà","pruvà"]
+ghjustificà
+dimustrà
+pruvà

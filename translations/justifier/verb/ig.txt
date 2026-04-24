@@ -1,1 +1,3 @@
-["gosipụta","kwado","gosi"]
+gosipụta
+kwado
+gosi

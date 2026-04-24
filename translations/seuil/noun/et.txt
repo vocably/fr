@@ -1,1 +1,4 @@
-["lävi","künnis","piir","algus"]
+lävi
+künnis
+piir
+algus

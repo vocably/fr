@@ -1,1 +1,3 @@
-["langgeng","ulet","tetep"]
+langgeng
+ulet
+tetep

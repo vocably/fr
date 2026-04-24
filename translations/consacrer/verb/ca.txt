@@ -1,1 +1,3 @@
-["consagrar","dedicar","sancionar"]
+consagrar
+dedicar
+sancionar

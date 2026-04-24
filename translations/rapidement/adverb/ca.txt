@@ -1,1 +1,2 @@
-["ràpidament","de pressa"]
+ràpidament
+de pressa

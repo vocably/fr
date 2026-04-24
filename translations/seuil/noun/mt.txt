@@ -1,1 +1,4 @@
-["soll","limitu","ghatba","friskura"]
+soll
+limitu
+ghatba
+friskura

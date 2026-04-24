@@ -1,1 +1,3 @@
-["lengkap","sampurna","pinuh"]
+lengkap
+sampurna
+pinuh

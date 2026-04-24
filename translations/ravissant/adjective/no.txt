@@ -1,1 +1,2 @@
-["henrivende","nydelig"]
+henrivende
+nydelig

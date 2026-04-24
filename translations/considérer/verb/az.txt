@@ -1,1 +1,3 @@
-["nəzərdən keçirmək","hesab etmək","nəzərə almaq"]
+nəzərdən keçirmək
+hesab etmək
+nəzərə almaq

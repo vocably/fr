@@ -1,1 +1,4 @@
-["ƙofa","mashigi","iyaka","farawa"]
+ƙofa
+mashigi
+iyaka
+farawa

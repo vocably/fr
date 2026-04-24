@@ -1,1 +1,2 @@
-["musamman","mafi yawa"]
+musamman
+mafi yawa

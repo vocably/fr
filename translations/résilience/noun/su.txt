@@ -1,1 +1,2 @@
-["dayadiri","dayatahan"]
+dayadiri
+dayatahan

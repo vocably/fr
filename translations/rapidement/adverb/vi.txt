@@ -1,1 +1,2 @@
-["nhanh chóng","mau chóng"]
+nhanh chóng
+mau chóng

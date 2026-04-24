@@ -1,1 +1,3 @@
-["vedvarende","ihuga","sitter"]
+vedvarende
+ihuga
+sitter

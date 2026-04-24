@@ -1,1 +1,2 @@
-["nomeadamente","designadamente"]
+nomeadamente
+designadamente

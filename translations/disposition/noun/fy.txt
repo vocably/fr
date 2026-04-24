@@ -1,1 +1,5 @@
-["yndieling","oardering","regeling","geasteshâlding","beskikking"]
+yndieling
+oardering
+regeling
+geasteshâlding
+beskikking

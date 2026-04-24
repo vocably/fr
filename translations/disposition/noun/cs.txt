@@ -1,1 +1,5 @@
-["uspořádání","rozvržení","náchylnost","dispozice","ustanovení"]
+uspořádání
+rozvržení
+náchylnost
+dispozice
+ustanovení

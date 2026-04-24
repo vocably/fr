@@ -1,1 +1,2 @@
-["micne","muhiim"]
+micne
+muhiim

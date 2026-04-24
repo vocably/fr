@@ -1,1 +1,3 @@
-["Kupira","Kutsaurira","Kutsvenesa"]
+Kupira
+Kutsaurira
+Kutsvenesa

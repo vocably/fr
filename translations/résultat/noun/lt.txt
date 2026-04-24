@@ -1,1 +1,3 @@
-["rezultatas","pasekmė","įvertinimas"]
+rezultatas
+pasekmė
+įvertinimas

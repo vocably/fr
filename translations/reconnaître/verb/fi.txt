@@ -1,1 +1,4 @@
-["tunnistaa","myöntää","tiedustella","olla kiitollinen"]
+tunnistaa
+myöntää
+tiedustella
+olla kiitollinen

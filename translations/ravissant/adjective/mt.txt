@@ -1,1 +1,2 @@
-["sabiħ","tal-għaġeb"]
+sabiħ
+tal-għaġeb

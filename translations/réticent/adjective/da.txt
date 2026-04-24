@@ -1,1 +1,2 @@
-["tilbageholdende","modvillig"]
+tilbageholdende
+modvillig

@@ -1,1 +1,3 @@
-["rinogara","risingaperi","risingadonhi"]
+rinogara
+risingaperi
+risingadonhi

@@ -1,1 +1,3 @@
-["szentel","áldoz","szentesít"]
+szentel
+áldoz
+szentesít

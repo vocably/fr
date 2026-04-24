@@ -1,1 +1,5 @@
-["mpangilio","utaratibu","hali","uwezo","masharti"]
+mpangilio
+utaratibu
+hali
+uwezo
+masharti

@@ -1,1 +1,2 @@
-["go háirithe","ach go háirithe"]
+go háirithe
+ach go háirithe

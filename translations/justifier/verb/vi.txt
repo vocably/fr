@@ -1,1 +1,3 @@
-["chứng minh","biện minh","minh oan"]
+chứng minh
+biện minh
+minh oan

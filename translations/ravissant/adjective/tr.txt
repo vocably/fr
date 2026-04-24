@@ -1,1 +1,2 @@
-["çekici","büyüleyici"]
+çekici
+büyüleyici

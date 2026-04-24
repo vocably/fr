@@ -1,1 +1,3 @@
-["sanna","réttlæta","sýna fram á sakleysi"]
+sanna
+réttlæta
+sýna fram á sakleysi

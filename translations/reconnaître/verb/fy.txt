@@ -1,1 +1,4 @@
-["werken","wurkje","wurk","wurken"]
+werken
+wurkje
+wurk
+wurken

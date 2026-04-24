@@ -1,1 +1,2 @@
-["eo ho","manodidina"]
+eo ho
+manodidina

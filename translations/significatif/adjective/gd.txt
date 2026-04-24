@@ -1,1 +1,2 @@
-["brìghmhor","cudromach"]
+brìghmhor
+cudromach

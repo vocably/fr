@@ -1,1 +1,2 @@
-["zdráhajúci sa","neochotný"]
+zdráhajúci sa
+neochotný

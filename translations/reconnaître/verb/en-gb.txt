@@ -1,1 +1,4 @@
-["to recognise","to acknowledge","to scout","to appreciate"]
+to recognise
+to acknowledge
+to scout
+to appreciate

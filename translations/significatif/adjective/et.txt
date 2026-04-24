@@ -1,1 +1,2 @@
-["tähendusrikas","oluline"]
+tähendusrikas
+oluline

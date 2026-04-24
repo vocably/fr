@@ -1,1 +1,2 @@
-["prudente","cautelosa"]
+prudente
+cautelosa

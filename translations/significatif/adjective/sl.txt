@@ -1,1 +1,2 @@
-["pomenljiv","pomemben"]
+pomenljiv
+pomemben

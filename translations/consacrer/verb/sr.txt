@@ -1,1 +1,3 @@
-["posvetiti","ustupiti","ozakoniti"]
+posvetiti
+ustupiti
+ozakoniti

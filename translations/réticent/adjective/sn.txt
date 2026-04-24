@@ -1,1 +1,2 @@
-["Kusada","Kuzengurira"]
+Kusada
+Kuzengurira

@@ -1,1 +1,3 @@
-["matatag","paulit-ulit","persistent"]
+matatag
+paulit-ulit
+persistent

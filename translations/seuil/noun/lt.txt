@@ -1,1 +1,4 @@
-["slenkstis","riba","pradžia","minimumas"]
+slenkstis
+riba
+pradžia
+minimumas

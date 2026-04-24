@@ -1,1 +1,4 @@
-["herken","erken","verken","waardeer"]
+herken
+erken
+verken
+waardeer

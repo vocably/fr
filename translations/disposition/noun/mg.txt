@@ -1,1 +1,5 @@
-["fandaharana","firafitra","toe-tsaina","fampiasana","fepetra"]
+fandaharana
+firafitra
+toe-tsaina
+fampiasana
+fepetra

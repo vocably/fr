@@ -1,1 +1,3 @@
-["sheba","nahana","ela hloko"]
+sheba
+nahana
+ela hloko

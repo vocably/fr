@@ -1,1 +1,2 @@
-["kiiresti","ruttu"]
+kiiresti
+ruttu

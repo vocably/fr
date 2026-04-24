@@ -1,1 +1,4 @@
-["þröskuldur","dyraumbúnaður","gátt","mörk"]
+þröskuldur
+dyraumbúnaður
+gátt
+mörk

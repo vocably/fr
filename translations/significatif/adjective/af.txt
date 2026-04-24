@@ -1,1 +1,2 @@
-["betekenisvol","beduidend"]
+betekenisvol
+beduidend

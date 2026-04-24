@@ -1,1 +1,3 @@
-["fuldstændig","hel","udsolgt"]
+fuldstændig
+hel
+udsolgt

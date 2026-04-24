@@ -1,1 +1,2 @@
-["ihana","suloinen"]
+ihana
+suloinen

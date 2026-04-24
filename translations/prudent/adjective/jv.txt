@@ -1,1 +1,2 @@
-["ngati-ati","wicaksana"]
+ngati-ati
+wicaksana

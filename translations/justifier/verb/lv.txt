@@ -1,1 +1,3 @@
-["attaisnot","taisnoties","apliecinat"]
+attaisnot
+taisnoties
+apliecinat

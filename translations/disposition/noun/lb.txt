@@ -1,1 +1,5 @@
-["Uerdnung","Ariichtung","AstelIung","Dispositioun","Bestëmmung"]
+Uerdnung
+Ariichtung
+AstelIung
+Dispositioun
+Bestëmmung

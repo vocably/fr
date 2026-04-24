@@ -1,1 +1,2 @@
-["özellikle","başta olmak üzere"]
+özellikle
+başta olmak üzere

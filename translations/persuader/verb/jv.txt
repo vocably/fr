@@ -1,1 +1,2 @@
-["nggoda","ngarih-arih"]
+nggoda
+ngarih-arih

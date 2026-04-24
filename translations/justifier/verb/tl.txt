@@ -1,1 +1,3 @@
-["patunayan","ipaliwanag","pangatwiranan"]
+patunayan
+ipaliwanag
+pangatwiranan

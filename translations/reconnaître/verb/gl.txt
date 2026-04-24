@@ -1,1 +1,4 @@
-["recoñecer","identificar","explorar","agradecer"]
+recoñecer
+identificar
+explorar
+agradecer

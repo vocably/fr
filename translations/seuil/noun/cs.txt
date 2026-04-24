@@ -1,1 +1,4 @@
-["práh","vstup","hranice","mez"]
+práh
+vstup
+hranice
+mez

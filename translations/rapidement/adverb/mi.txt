@@ -1,1 +1,2 @@
-["hōro","tere"]
+hōro
+tere

@@ -1,1 +1,2 @@
-["butunlik","halollik"]
+butunlik
+halollik

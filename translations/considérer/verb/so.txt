@@ -1,1 +1,3 @@
-["fiiri","tixgeli","u fiirso"]
+fiiri
+tixgeli
+u fiirso

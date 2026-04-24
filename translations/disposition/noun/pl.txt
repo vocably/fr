@@ -1,1 +1,5 @@
-["rozporządzenie","dyspozycja","usposobienie","układ","postanowienie"]
+rozporządzenie
+dyspozycja
+usposobienie
+układ
+postanowienie

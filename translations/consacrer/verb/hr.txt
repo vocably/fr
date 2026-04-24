@@ -1,1 +1,3 @@
-["posvetiti","namijeniti","ustanoviti"]
+posvetiti
+namijeniti
+ustanoviti

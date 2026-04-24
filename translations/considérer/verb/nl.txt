@@ -1,1 +1,3 @@
-["beschouwen","overwegen","rekening houden met"]
+beschouwen
+overwegen
+rekening houden met

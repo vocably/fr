@@ -1,1 +1,2 @@
-["varovainen","järkevä"]
+varovainen
+järkevä

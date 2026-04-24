@@ -1,1 +1,5 @@
-["Anordnung","Aufstellung","Verfügung","Stimmung","Bestimmung"]
+Anordnung
+Aufstellung
+Verfügung
+Stimmung
+Bestimmung

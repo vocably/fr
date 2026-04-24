@@ -1,1 +1,5 @@
-["paigutus","korraldus","meeleolu","kasutusõigus","säte"]
+paigutus
+korraldus
+meeleolu
+kasutusõigus
+säte

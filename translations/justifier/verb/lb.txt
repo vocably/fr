@@ -1,1 +1,3 @@
-["begrënnen","rechtfertegen","justifiéieren"]
+begrënnen
+rechtfertegen
+justifiéieren

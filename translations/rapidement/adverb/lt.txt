@@ -1,1 +1,2 @@
-["greitai","sparčiai"]
+greitai
+sparčiai

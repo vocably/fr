@@ -1,1 +1,2 @@
-["malajr","b'ħeffa"]
+malajr
+b'ħeffa

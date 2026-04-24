@@ -1,1 +1,3 @@
-["okuqhubekayo","ozingisayo","ohlala"]
+okuqhubekayo
+ozingisayo
+ohlala

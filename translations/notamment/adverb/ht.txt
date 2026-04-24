@@ -1,1 +1,2 @@
-["sitou","patikilyèman"]
+sitou
+patikilyèman

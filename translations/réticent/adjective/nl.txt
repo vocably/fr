@@ -1,1 +1,2 @@
-["terughoudend","weigerachtig"]
+terughoudend
+weigerachtig

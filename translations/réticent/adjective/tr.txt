@@ -1,1 +1,2 @@
-["isteksiz","çekingen"]
+isteksiz
+çekingen

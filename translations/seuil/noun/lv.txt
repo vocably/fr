@@ -1,1 +1,4 @@
-["slieksnis","robeža","sākums","līmenis"]
+slieksnis
+robeža
+sākums
+līmenis

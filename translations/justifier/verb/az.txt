@@ -1,1 +1,3 @@
-["əsaslandırmaq","doğrultmaq","təsdiqləmək"]
+əsaslandırmaq
+doğrultmaq
+təsdiqləmək

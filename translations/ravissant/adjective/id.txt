@@ -1,1 +1,2 @@
-["mempesona","menawan"]
+mempesona
+menawan

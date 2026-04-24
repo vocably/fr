@@ -1,1 +1,2 @@
-["neveikls","kautrīgs"]
+neveikls
+kautrīgs

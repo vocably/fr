@@ -1,1 +1,5 @@
-["elrendezés","rendelkezés","hajlam","szerkezet","intézkedés"]
+elrendezés
+rendelkezés
+hajlam
+szerkezet
+intézkedés

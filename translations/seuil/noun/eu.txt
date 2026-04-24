@@ -1,1 +1,4 @@
-["atalase","muga","hasiera","beheko muga"]
+atalase
+muga
+hasiera
+beheko muga

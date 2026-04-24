@@ -1,1 +1,5 @@
-["dispozicion","rregullim","renditje","organizim","klauzolë"]
+dispozicion
+rregullim
+renditje
+organizim
+klauzolë

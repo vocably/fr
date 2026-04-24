@@ -1,1 +1,3 @@
-["vanrækja","hirða ekki um","láta eitthvað liggja"]
+vanrækja
+hirða ekki um
+láta eitthvað liggja

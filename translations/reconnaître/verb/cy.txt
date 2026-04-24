@@ -1,1 +1,4 @@
-["adnabod","cydnabod","archwilio","gwerthfawrogi"]
+adnabod
+cydnabod
+archwilio
+gwerthfawrogi

@@ -1,1 +1,5 @@
-["joylashuv","tartib","holat","moyillik","qoida"]
+joylashuv
+tartib
+holat
+moyillik
+qoida

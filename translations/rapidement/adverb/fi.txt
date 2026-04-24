@@ -1,1 +1,2 @@
-["nopeasti","pian"]
+nopeasti
+pian

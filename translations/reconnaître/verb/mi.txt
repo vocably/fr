@@ -1,1 +1,4 @@
-["mōhio","whakaae","tūhura","whakawhetai"]
+mōhio
+whakaae
+tūhura
+whakawhetai

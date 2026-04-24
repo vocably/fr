@@ -1,1 +1,2 @@
-["kweye","gbaa ume"]
+kweye
+gbaa ume

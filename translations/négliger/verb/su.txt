@@ -1,1 +1,3 @@
-["ngantepkeun","ngabéngkokeun","ngaléléwé"]
+ngantepkeun
+ngabéngkokeun
+ngaléléwé

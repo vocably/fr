@@ -1,1 +1,3 @@
-["giustificare","motivare","provare"]
+giustificare
+motivare
+provare

@@ -1,1 +1,3 @@
-["kuwongorora","kufunga","kutarisira"]
+kuwongorora
+kufunga
+kutarisira

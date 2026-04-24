@@ -1,1 +1,3 @@
-["subut etmek","aklamak","esaslandyrmak"]
+subut etmek
+aklamak
+esaslandyrmak

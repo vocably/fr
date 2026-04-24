@@ -1,1 +1,3 @@
-["persistent","ausdauernd","beharrlech"]
+persistent
+ausdauernd
+beharrlech

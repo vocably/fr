@@ -1,1 +1,2 @@
-["kuva kwakakwana","kururama"]
+kuva kwakakwana
+kururama

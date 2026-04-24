@@ -1,1 +1,3 @@
-["chakakwana","chosezere","chakazara"]
+chakakwana
+chosezere
+chakazara

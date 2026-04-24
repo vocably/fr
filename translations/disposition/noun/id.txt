@@ -1,1 +1,5 @@
-["penataan","susunan","kecenderungan","wewenang","ketentuan"]
+penataan
+susunan
+kecenderungan
+wewenang
+ketentuan

@@ -1,1 +1,3 @@
-["cikakke","gaba ɗaya","cike"]
+cikakke
+gaba ɗaya
+cike

@@ -1,1 +1,3 @@
-["sakamako","abin da ya biyo baya","ci gaba"]
+sakamako
+abin da ya biyo baya
+ci gaba

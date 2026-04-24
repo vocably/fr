@@ -1,1 +1,4 @@
-["atpažinti","pripažinti","ištirti","dėkoti"]
+atpažinti
+pripažinti
+ištirti
+dėkoti

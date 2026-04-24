@@ -1,1 +1,3 @@
-["esgeuluso","tynnu","gwrthod"]
+esgeuluso
+tynnu
+gwrthod

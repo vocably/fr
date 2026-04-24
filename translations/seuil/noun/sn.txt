@@ -1,1 +1,4 @@
-["mukova","chikumbaridzo","suo","miganhu"]
+mukova
+chikumbaridzo
+suo
+miganhu

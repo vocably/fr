@@ -1,1 +1,3 @@
-["isaalang-alang","pagmasdan","suriin"]
+isaalang-alang
+pagmasdan
+suriin

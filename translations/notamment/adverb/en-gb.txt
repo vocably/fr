@@ -1,1 +1,2 @@
-["notably","especially"]
+notably
+especially

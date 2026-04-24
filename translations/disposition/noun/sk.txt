@@ -1,1 +1,5 @@
-["usporiadanie","rozloženie","dispozícia","ustanovenie","sklon"]
+usporiadanie
+rozloženie
+dispozícia
+ustanovenie
+sklon

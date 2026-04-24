@@ -1,1 +1,3 @@
-["emaitza","ondorio","puntuazio"]
+emaitza
+ondorio
+puntuazio

@@ -1,1 +1,3 @@
-["riżultat","konsegwenza","punteġġ"]
+riżultat
+konsegwenza
+punteġġ

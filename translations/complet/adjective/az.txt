@@ -1,1 +1,3 @@
-["tam","dolu","bitkin"]
+tam
+dolu
+bitkin

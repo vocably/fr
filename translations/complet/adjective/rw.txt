@@ -1,1 +1,3 @@
-["cyuzuye","yose","ntarimo"]
+cyuzuye
+yose
+ntarimo

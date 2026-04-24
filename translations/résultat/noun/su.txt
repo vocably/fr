@@ -1,1 +1,3 @@
-["hasil","balasan","akibat"]
+hasil
+balasan
+akibat

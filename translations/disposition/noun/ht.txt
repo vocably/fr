@@ -1,1 +1,5 @@
-["aranjman","dispozisyon","òganizasyon","volonte","atik"]
+aranjman
+dispozisyon
+òganizasyon
+volonte
+atik

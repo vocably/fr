@@ -1,1 +1,2 @@
-["um","svona"]
+um
+svona

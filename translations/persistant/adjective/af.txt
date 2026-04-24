@@ -1,1 +1,3 @@
-["aanhoudend","volhardend","blywend"]
+aanhoudend
+volhardend
+blywend

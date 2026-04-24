@@ -1,1 +1,3 @@
-["fakazela","bonisa ubuqiniso","thethelela"]
+fakazela
+bonisa ubuqiniso
+thethelela

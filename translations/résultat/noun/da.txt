@@ -1,1 +1,3 @@
-["resultat","følge","score"]
+resultat
+følge
+score

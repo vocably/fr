@@ -1,1 +1,2 @@
-["ehtiyotkor","uylab ish qiladigan"]
+ehtiyotkor
+uylab ish qiladigan

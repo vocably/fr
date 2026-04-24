@@ -1,1 +1,3 @@
-["apsvarstyti","laikyti","atsižvelgti"]
+apsvarstyti
+laikyti
+atsižvelgti

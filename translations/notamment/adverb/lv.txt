@@ -1,1 +1,2 @@
-["īpaši","jo īpaši"]
+īpaši
+jo īpaši

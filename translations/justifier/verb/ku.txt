@@ -1,1 +1,3 @@
-["rastderxistin","sedem anîn","bêsûcdanîn"]
+rastderxistin
+sedem anîn
+bêsûcdanîn

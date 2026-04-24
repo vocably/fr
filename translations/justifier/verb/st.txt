@@ -1,1 +1,3 @@
-["ho paka","ho fana ka mabaka","ho hloekisa lebitso"]
+ho paka
+ho fana ka mabaka
+ho hloekisa lebitso

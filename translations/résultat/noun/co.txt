@@ -1,1 +1,3 @@
-["risultatu","cunsequenza","puntu"]
+risultatu
+cunsequenza
+puntu

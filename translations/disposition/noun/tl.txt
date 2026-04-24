@@ -1,1 +1,5 @@
-["pagsasaayos","kaayusan","ugali","kapangyarihan","probisyon"]
+pagsasaayos
+kaayusan
+ugali
+kapangyarihan
+probisyon

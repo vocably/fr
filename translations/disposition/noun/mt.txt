@@ -1,1 +1,5 @@
-["arranġament","tqassim","burdata","dispożizzjoni","klawsola"]
+arranġament
+tqassim
+burdata
+dispożizzjoni
+klawsola

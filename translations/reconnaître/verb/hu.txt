@@ -1,1 +1,4 @@
-["felismer","elismer","felderít","hálát érez"]
+felismer
+elismer
+felderít
+hálát érez

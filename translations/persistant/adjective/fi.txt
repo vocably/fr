@@ -1,1 +1,3 @@
-["pysyvä","sitkeä","peräänantamaton"]
+pysyvä
+sitkeä
+peräänantamaton

@@ -1,1 +1,2 @@
-["progressivament","bil-mod"]
+progressivament
+bil-mod

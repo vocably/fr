@@ -1,1 +1,4 @@
-["paepae","tomokanga","tepe","paepae-iti"]
+paepae
+tomokanga
+tepe
+paepae-iti

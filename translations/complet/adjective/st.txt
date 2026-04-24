@@ -1,1 +1,3 @@
-["feletseng","tlalo","phethedi"]
+feletseng
+tlalo
+phethedi

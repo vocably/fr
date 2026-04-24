@@ -1,1 +1,4 @@
-["išdėstymas","nuotaika","galimybė naudotis","nuostata"]
+išdėstymas
+nuotaika
+galimybė naudotis
+nuostata

@@ -1,1 +1,3 @@
-["ialay","ilaan","pagtibayin"]
+ialay
+ilaan
+pagtibayin

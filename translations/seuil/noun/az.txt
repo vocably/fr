@@ -1,1 +1,4 @@
-["eşik","astana","hədd","minimum"]
+eşik
+astana
+hədd
+minimum

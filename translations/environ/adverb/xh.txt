@@ -1,1 +1,2 @@
-["malunga","phantse"]
+malunga
+phantse

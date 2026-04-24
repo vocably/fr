@@ -1,1 +1,3 @@
-["a considera","a examina","a lua în considerare"]
+a considera
+a examina
+a lua în considerare

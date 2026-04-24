@@ -1,1 +1,4 @@
-["atpazīt","atzīt","izlūkot","pateikties"]
+atpazīt
+atzīt
+izlūkot
+pateikties

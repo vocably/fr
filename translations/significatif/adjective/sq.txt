@@ -1,1 +1,2 @@
-["domethënës","kuptimplotë"]
+domethënës
+kuptimplotë

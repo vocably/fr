@@ -1,1 +1,2 @@
-["bèl","magnifik"]
+bèl
+magnifik

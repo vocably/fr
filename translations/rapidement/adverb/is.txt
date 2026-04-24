@@ -1,1 +1,2 @@
-["hratt","fljótt"]
+hratt
+fljótt

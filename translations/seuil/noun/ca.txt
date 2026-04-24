@@ -1,1 +1,4 @@
-["llindar","seuil","entrada","límit"]
+llindar
+seuil
+entrada
+límit

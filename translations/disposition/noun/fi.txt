@@ -1,1 +1,5 @@
-["järjestely","sommittelu","mieli","käytettävissä","määräys"]
+järjestely
+sommittelu
+mieli
+käytettävissä
+määräys

@@ -1,1 +1,4 @@
-["prag","intrare","limită","nivel"]
+prag
+intrare
+limită
+nivel

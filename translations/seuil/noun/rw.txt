@@ -1,1 +1,4 @@
-["umuryango","irebe","intangiriro","urugero"]
+umuryango
+irebe
+intangiriro
+urugero

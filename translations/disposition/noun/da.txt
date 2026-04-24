@@ -1,1 +1,5 @@
-["disposition","arrangement","indstilling","rådighed","bestemmelse"]
+disposition
+arrangement
+indstilling
+rådighed
+bestemmelse

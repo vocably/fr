@@ -1,1 +1,3 @@
-["faapai","tuuto","faamaonia"]
+faapai
+tuuto
+faamaonia

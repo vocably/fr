@@ -1,1 +1,2 @@
-["tərəddüdlü","çəkinən"]
+tərəddüdlü
+çəkinən

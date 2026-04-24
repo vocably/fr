@@ -1,1 +1,2 @@
-["značajan","smislen"]
+značajan
+smislen

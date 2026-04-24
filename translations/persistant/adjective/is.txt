@@ -1,1 +1,3 @@
-["viðvarandi","þrálátur","síblómstrandi"]
+viðvarandi
+þrálátur
+síblómstrandi

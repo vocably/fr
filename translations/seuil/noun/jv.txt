@@ -1,1 +1,4 @@
-["lawang","ambang","wiwitan","wates"]
+lawang
+ambang
+wiwitan
+wates

@@ -1,1 +1,4 @@
-["faʻafoʻi","amataga","tapulaʻa","paepae"]
+faʻafoʻi
+amataga
+tapulaʻa
+paepae

@@ -1,1 +1,2 @@
-["mai son magana","mai jinkiri"]
+mai son magana
+mai jinkiri

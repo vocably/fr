@@ -1,1 +1,4 @@
-["tærskel","indgang","grænse","niveau"]
+tærskel
+indgang
+grænse
+niveau

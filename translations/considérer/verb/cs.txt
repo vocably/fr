@@ -1,1 +1,3 @@
-["zvažovat","považovat","uvažovat"]
+zvažovat
+považovat
+uvažovat

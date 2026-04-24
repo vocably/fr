@@ -1,1 +1,2 @@
-["oprezan","razborit"]
+oprezan
+razborit

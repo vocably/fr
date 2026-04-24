@@ -1,1 +1,3 @@
-["asil","kasil","pituwas"]
+asil
+kasil
+pituwas

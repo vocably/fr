@@ -1,1 +1,3 @@
-["volledig","compleet","geheel"]
+volledig
+compleet
+geheel

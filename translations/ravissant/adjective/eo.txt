@@ -1,1 +1,2 @@
-["ĉarma","ravanta"]
+ĉarma
+ravanta

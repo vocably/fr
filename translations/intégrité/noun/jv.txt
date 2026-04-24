@@ -1,1 +1,2 @@
-["kawarasan","kejujuran"]
+kawarasan
+kejujuran

@@ -1,1 +1,3 @@
-["failligh","dearmad","lig i ndearmad"]
+failligh
+dearmad
+lig i ndearmad

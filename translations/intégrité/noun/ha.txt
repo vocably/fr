@@ -1,1 +1,2 @@
-["cikakken","gaskiya"]
+cikakken
+gaskiya

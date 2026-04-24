@@ -1,1 +1,3 @@
-["teljes","komplett","zsúfolt"]
+teljes
+komplett
+zsúfolt

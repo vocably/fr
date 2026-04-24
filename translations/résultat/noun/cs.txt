@@ -1,1 +1,3 @@
-["výsledek","následek","skóre"]
+výsledek
+následek
+skóre

@@ -1,1 +1,5 @@
-["disposição","arranjo","organização","inclinação","cláusula"]
+disposição
+arranjo
+organização
+inclinação
+cláusula

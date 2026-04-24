@@ -1,1 +1,2 @@
-["celistvosť","bezúhonnosť"]
+celistvosť
+bezúhonnosť

@@ -1,1 +1,4 @@
-["mahita","miaiky","mankasitraka","mandinika"]
+mahita
+miaiky
+mankasitraka
+mandinika

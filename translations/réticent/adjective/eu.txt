@@ -1,1 +1,2 @@
-["errezelo","uzkur"]
+errezelo
+uzkur

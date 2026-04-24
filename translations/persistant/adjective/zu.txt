@@ -1,1 +1,3 @@
-["okuqhubekayo","ongapheli","ohlala njalo"]
+okuqhubekayo
+ongapheli
+ohlala njalo

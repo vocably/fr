@@ -1,1 +1,2 @@
-["an-kolaka","an-teny an-kolaka"]
+an-kolaka
+an-teny an-kolaka

@@ -1,1 +1,2 @@
-["gu leòr","gu dearbh"]
+gu leòr
+gu dearbh

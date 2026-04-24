@@ -1,1 +1,3 @@
-["dowamly","tutukly","ýaprak dökmeýän"]
+dowamly
+tutukly
+ýaprak dökmeýän

@@ -1,1 +1,2 @@
-["zadržan","nejevoljen"]
+zadržan
+nejevoljen

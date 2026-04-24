@@ -1,1 +1,4 @@
-["aithnich","gabh ri","rannsaich","thoir taing do"]
+aithnich
+gabh ri
+rannsaich
+thoir taing do

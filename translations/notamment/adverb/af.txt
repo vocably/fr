@@ -1,1 +1,2 @@
-["veral","spesifiek"]
+veral
+spesifiek

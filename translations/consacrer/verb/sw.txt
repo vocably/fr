@@ -1,1 +1,3 @@
-["kutakasa","kujitolea","kuhalalisha"]
+kutakasa
+kujitolea
+kuhalalisha

@@ -1,1 +1,3 @@
-["txhua","tas","puv"]
+txhua
+tas
+puv

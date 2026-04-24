@@ -1,1 +1,3 @@
-["vollständig","ganz","besetzt"]
+vollständig
+ganz
+besetzt

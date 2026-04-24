@@ -1,1 +1,2 @@
-["ihe dika","gburugburu"]
+ihe dika
+gburugburu

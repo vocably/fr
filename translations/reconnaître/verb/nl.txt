@@ -1,1 +1,4 @@
-["herkennen","erkennen","verkennen","waarderen"]
+herkennen
+erkennen
+verkennen
+waarderen

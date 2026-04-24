@@ -1,1 +1,4 @@
-["soleira","limiar","entrada","patamar"]
+soleira
+limiar
+entrada
+patamar

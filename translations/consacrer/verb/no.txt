@@ -1,1 +1,3 @@
-["vie","hellige","innvie"]
+vie
+hellige
+innvie

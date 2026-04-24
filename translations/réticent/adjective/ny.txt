@@ -1,1 +1,2 @@
-["wozizira","wosazengereza"]
+wozizira
+wosazengereza

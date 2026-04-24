@@ -1,1 +1,2 @@
-["séier","geschwënn"]
+séier
+geschwënn

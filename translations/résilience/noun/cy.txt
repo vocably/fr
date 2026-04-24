@@ -1,1 +1,2 @@
-["gwytnwch","cydnerthedd"]
+gwytnwch
+cydnerthedd

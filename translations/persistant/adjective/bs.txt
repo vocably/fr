@@ -1,1 +1,3 @@
-["uporan","trajan","postojan"]
+uporan
+trajan
+postojan

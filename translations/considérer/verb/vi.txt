@@ -1,1 +1,3 @@
-["xem xét","coi","tôn trọng"]
+xem xét
+coi
+tôn trọng

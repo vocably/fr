@@ -1,1 +1,3 @@
-["betruechten","gesinn","halen"]
+betruechten
+gesinn
+halen

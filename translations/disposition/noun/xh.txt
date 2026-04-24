@@ -1,1 +1,5 @@
-["ulungiselelo","isakhiwo","imo yengqondo","ilungelo lokusebenzisa","umqathango"]
+ulungiselelo
+isakhiwo
+imo yengqondo
+ilungelo lokusebenzisa
+umqathango

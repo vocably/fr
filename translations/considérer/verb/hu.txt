@@ -1,1 +1,3 @@
-["megfontol","figyelembe vesz","tekintetbe vesz"]
+megfontol
+figyelembe vesz
+tekintetbe vesz

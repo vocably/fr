@@ -1,1 +1,5 @@
-["dispusizione","urganizazione","attitudine","putere","clausula"]
+dispusizione
+urganizazione
+attitudine
+putere
+clausula

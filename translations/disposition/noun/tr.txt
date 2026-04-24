@@ -1,1 +1,5 @@
-["düzenleme","tanzim","eğilim","huy","hüküm"]
+düzenleme
+tanzim
+eğilim
+huy
+hüküm

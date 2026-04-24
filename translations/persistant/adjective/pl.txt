@@ -1,1 +1,3 @@
-["trwały","nieustępliwy","wytrwały"]
+trwały
+nieustępliwy
+wytrwały

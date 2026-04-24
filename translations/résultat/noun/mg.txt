@@ -1,1 +1,3 @@
-["vokatra","tsoa-drano","isa"]
+vokatra
+tsoa-drano
+isa

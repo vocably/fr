@@ -1,1 +1,2 @@
-["významný","príznačný"]
+významný
+príznačný

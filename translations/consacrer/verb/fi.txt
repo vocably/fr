@@ -1,1 +1,3 @@
-["pyhittää","omistautua","vahvistaa"]
+pyhittää
+omistautua
+vahvistaa

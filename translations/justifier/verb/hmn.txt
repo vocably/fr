@@ -1,1 +1,3 @@
-["ua pov thawj","qhia tseeb","yog vim li cas"]
+ua pov thawj
+qhia tseeb
+yog vim li cas

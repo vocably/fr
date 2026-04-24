@@ -1,1 +1,3 @@
-["ngemutan","ngemut","ningali"]
+ngemutan
+ngemut
+ningali

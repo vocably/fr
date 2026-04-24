@@ -1,1 +1,3 @@
-["Resultat","Folleg","Score"]
+Resultat
+Folleg
+Score

@@ -1,1 +1,2 @@
-["premislen","previden"]
+premislen
+previden

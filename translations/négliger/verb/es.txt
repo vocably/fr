@@ -1,1 +1,3 @@
-["descuidar","omitir","desatender"]
+descuidar
+omitir
+desatender

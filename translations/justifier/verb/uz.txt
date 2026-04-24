@@ -1,1 +1,3 @@
-["isbotlash","oqlov","tasdiqlash"]
+isbotlash
+oqlov
+tasdiqlash

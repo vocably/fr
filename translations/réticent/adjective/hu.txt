@@ -1,1 +1,2 @@
-["tartózkodó","vonakodó"]
+tartózkodó
+vonakodó

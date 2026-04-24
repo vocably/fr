@@ -1,1 +1,2 @@
-["fear","bang"]
+fear
+bang

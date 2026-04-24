@@ -1,1 +1,2 @@
-["ni ifura","ni ikoko"]
+ni ifura
+ni ikoko

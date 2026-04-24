@@ -1,1 +1,3 @@
-["konplè","nèt","plen"]
+konplè
+nèt
+plen

@@ -1,1 +1,4 @@
-["qhov rooj","ntug","pib","yam tsawg kawg nkaus"]
+qhov rooj
+ntug
+pib
+yam tsawg kawg nkaus

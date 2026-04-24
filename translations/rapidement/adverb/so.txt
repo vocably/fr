@@ -1,1 +1,2 @@
-["Si dhakhso ah","Degdeg"]
+Si dhakhso ah
+Degdeg

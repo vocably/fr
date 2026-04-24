@@ -1,1 +1,5 @@
-["arrangement","disposition","inclination","power","provision"]
+arrangement
+disposition
+inclination
+power
+provision

@@ -1,1 +1,5 @@
-["antolamendu","xedapen","gogo","eskura","ordenamendu"]
+antolamendu
+xedapen
+gogo
+eskura
+ordenamendu

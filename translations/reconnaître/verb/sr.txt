@@ -1,1 +1,4 @@
-["prepoznati","priznati","izvideti","biti zahvalan"]
+prepoznati
+priznati
+izvideti
+biti zahvalan

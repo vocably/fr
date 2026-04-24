@@ -1,1 +1,3 @@
-["endelevu","imara","ngumu"]
+endelevu
+imara
+ngumu

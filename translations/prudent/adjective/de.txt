@@ -1,1 +1,2 @@
-["vorsichtig","besonnen"]
+vorsichtig
+besonnen

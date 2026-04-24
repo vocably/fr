@@ -1,1 +1,3 @@
-["fa'amaonia","fa'amaoni","fa'amaoniga"]
+fa'amaonia
+fa'amaoni
+fa'amaoniga

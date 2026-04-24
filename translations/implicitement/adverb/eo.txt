@@ -1,1 +1,2 @@
-["implicite","silente"]
+implicite
+silente

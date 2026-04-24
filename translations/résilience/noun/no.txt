@@ -1,1 +1,2 @@
-["motstand","seighet"]
+motstand
+seighet

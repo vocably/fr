@@ -1,1 +1,2 @@
-["raskt","fort"]
+raskt
+fort

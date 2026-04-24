@@ -1,1 +1,4 @@
-["prag","vhod","meja","minimalna raven"]
+prag
+vhod
+meja
+minimalna raven

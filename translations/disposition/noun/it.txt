@@ -1,1 +1,5 @@
-["disposizione","ordinamento","indole","clausola","norma"]
+disposizione
+ordinamento
+indole
+clausola
+norma

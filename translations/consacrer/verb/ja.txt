@@ -1,1 +1,3 @@
-["捧げる","充てる","consacrer"]
+捧げる
+充てる
+consacrer

@@ -1,1 +1,3 @@
-["vurdere","betrakte","anse"]
+vurdere
+betrakte
+anse

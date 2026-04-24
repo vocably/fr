@@ -1,1 +1,3 @@
-["justifikoj","vërtetoj","shpjegoj"]
+justifikoj
+vërtetoj
+shpjegoj

@@ -1,1 +1,3 @@
-["desatender","omitir","desprezar"]
+desatender
+omitir
+desprezar

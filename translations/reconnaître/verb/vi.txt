@@ -1,1 +1,4 @@
-["nhận ra","công nhận","thăm dò","ghi ơn"]
+nhận ra
+công nhận
+thăm dò
+ghi ơn

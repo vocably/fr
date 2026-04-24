@@ -1,1 +1,3 @@
-["həsr etmək","sərf etmək","təsdiq etmək"]
+həsr etmək
+sərf etmək
+təsdiq etmək

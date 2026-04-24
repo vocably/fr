@@ -1,1 +1,2 @@
-["nag-aatubili","urong-sulong"]
+nag-aatubili
+urong-sulong

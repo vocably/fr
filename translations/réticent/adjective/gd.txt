@@ -1,1 +1,2 @@
-["leisg","droch-gheanach"]
+leisg
+droch-gheanach

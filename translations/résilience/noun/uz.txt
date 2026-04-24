@@ -1,1 +1,2 @@
-["moslashuvchanlik","chidamli"]
+moslashuvchanlik
+chidamli

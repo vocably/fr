@@ -1,1 +1,3 @@
-["ibisubizo","ingorane","amanota"]
+ibisubizo
+ingorane
+amanota

@@ -1,1 +1,2 @@
-["mai ma'ana","mahimmanci"]
+mai ma'ana
+mahimmanci

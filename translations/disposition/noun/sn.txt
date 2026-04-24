@@ -1,1 +1,5 @@
-["urongwa","gadziro","mafungiro","chisarudzo","chisungo"]
+urongwa
+gadziro
+mafungiro
+chisarudzo
+chisungo

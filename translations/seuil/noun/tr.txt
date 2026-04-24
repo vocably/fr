@@ -1,1 +1,4 @@
-["eşik","giriş","başlangıç","alt sınır"]
+eşik
+giriş
+başlangıç
+alt sınır

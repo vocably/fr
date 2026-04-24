@@ -1,1 +1,3 @@
-["considerare","stimare","tenere conto"]
+considerare
+stimare
+tenere conto

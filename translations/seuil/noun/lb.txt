@@ -1,1 +1,4 @@
-["Schwell","Diereschwell","Ufank","Grenz"]
+Schwell
+Diereschwell
+Ufank
+Grenz

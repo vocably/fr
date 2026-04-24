@@ -1,1 +1,2 @@
-["shpejt","me shpejtësi"]
+shpejt
+me shpejtësi

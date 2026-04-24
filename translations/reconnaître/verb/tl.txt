@@ -1,1 +1,3 @@
-["makilala","kilalanin","pasalamatan"]
+makilala
+kilalanin
+pasalamatan

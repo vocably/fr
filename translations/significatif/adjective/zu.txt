@@ -1,1 +1,2 @@
-["okubalulekile","okunenjongo"]
+okubalulekile
+okunenjongo

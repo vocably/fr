@@ -1,1 +1,3 @@
-["cumplettu","intieru","piulenu"]
+cumplettu
+intieru
+piulenu

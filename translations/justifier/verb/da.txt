@@ -1,1 +1,3 @@
-["berettige","begrunde","retfærdiggøre"]
+berettige
+begrunde
+retfærdiggøre

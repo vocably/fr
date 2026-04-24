@@ -1,1 +1,4 @@
-["kutambua","kukiri","kuchunguza","kushukuru"]
+kutambua
+kukiri
+kuchunguza
+kushukuru

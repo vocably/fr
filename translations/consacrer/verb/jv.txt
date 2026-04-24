@@ -1,1 +1,3 @@
-["ngaturake","nggunakake","netepake"]
+ngaturake
+nggunakake
+netepake

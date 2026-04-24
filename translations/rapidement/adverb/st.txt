@@ -1,1 +1,2 @@
-["ka lebelo","kaha kapele"]
+ka lebelo
+kaha kapele

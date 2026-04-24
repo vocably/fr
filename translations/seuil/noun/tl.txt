@@ -1,1 +1,4 @@
-["pasamano","pintuan","hangganan","simula"]
+pasamano
+pintuan
+hangganan
+simula

@@ -1,1 +1,3 @@
-["ospravedlnit","odůvodnit","obhájit"]
+ospravedlnit
+odůvodnit
+obhájit

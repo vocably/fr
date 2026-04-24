@@ -1,1 +1,2 @@
-["buaidh","ath-fhuaim"]
+buaidh
+ath-fhuaim

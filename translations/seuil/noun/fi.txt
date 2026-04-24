@@ -1,1 +1,4 @@
-["kynnys","raja","alku","vähimmäistaso"]
+kynnys
+raja
+alku
+vähimmäistaso

@@ -1,1 +1,2 @@
-["tó l'oye","tó s'okunfa"]
+tó l'oye
+tó s'okunfa

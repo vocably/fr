@@ -1,1 +1,3 @@
-["Kupuuza","Kutelekeza","Kudharau"]
+Kupuuza
+Kutelekeza
+Kudharau

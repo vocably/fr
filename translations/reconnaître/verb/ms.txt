@@ -1,1 +1,4 @@
-["mengenali","mengakui","menjelajahi","menghargai"]
+mengenali
+mengakui
+menjelajahi
+menghargai

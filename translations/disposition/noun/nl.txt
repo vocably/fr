@@ -1,1 +1,5 @@
-["indeling","rangschikking","aanleg","beschikking","bepaling"]
+indeling
+rangschikking
+aanleg
+beschikking
+bepaling

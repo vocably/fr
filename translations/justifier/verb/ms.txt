@@ -1,1 +1,3 @@
-["membuktikan","mewajarkan","mempertahankan"]
+membuktikan
+mewajarkan
+mempertahankan

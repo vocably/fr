@@ -1,1 +1,3 @@
-["ardura ez izan","ez ikusi egin","alboratu"]
+ardura ez izan
+ez ikusi egin
+alboratu

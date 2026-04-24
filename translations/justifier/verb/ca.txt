@@ -1,1 +1,3 @@
-["justificar","demostrar","provar"]
+justificar
+demostrar
+provar

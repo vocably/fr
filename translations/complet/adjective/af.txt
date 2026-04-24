@@ -1,1 +1,3 @@
-["voltooi","volledig","bomvol"]
+voltooi
+volledig
+bomvol

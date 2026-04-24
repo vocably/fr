@@ -1,1 +1,3 @@
-["bagyşlamak","sarp etmek","tassyk etmek"]
+bagyşlamak
+sarp etmek
+tassyk etmek

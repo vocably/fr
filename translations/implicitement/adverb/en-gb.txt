@@ -1,1 +1,2 @@
-["implicitly","by implication"]
+implicitly
+by implication

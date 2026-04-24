@@ -1,1 +1,3 @@
-["komplett","ganz","voll"]
+komplett
+ganz
+voll

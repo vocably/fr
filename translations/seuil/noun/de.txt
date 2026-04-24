@@ -1,1 +1,4 @@
-["die Schwelle","der Eingang","die Grenze","der Schwellenwert"]
+die Schwelle
+der Eingang
+die Grenze
+der Schwellenwert

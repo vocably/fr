@@ -1,1 +1,4 @@
-["ngakoni","niteni","ngerteni","matur nuwun"]
+ngakoni
+niteni
+ngerteni
+matur nuwun

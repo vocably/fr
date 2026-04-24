@@ -1,1 +1,5 @@
-["rêkûpêkî","amadeyî","meyl","îxtiyar","bend"]
+rêkûpêkî
+amadeyî
+meyl
+îxtiyar
+bend

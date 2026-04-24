@@ -1,1 +1,5 @@
-["arrangemang","disposition","anlag","bestämmelse","klausul"]
+arrangemang
+disposition
+anlag
+bestämmelse
+klausul
