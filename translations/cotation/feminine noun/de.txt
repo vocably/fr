@@ -1,0 +1,3 @@
+die Notierung
+die Kursnotierung
+die Bewertung

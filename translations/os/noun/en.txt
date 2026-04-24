@@ -1,0 +1,3 @@
+bone
+skeleton
+carcass

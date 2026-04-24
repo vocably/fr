@@ -1,0 +1,3 @@
+ajedrez
+fracaso
+derrota

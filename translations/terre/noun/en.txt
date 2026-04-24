@@ -1,0 +1,5 @@
+earth
+land
+soil
+country
+estate

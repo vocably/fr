@@ -1,0 +1,3 @@
+die Konsultation
+die Sprechstunde
+die Beratung

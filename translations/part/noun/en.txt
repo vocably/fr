@@ -1,0 +1,4 @@
+part
+share
+role
+lot

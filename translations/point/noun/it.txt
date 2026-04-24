@@ -1,0 +1,5 @@
+punto
+macchia
+luogo
+momento
+questione

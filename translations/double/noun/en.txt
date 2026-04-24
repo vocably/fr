@@ -1,0 +1,4 @@
+double
+duplicate
+twin
+replica

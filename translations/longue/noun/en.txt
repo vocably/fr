@@ -1,0 +1,3 @@
+length
+duration
+long note

@@ -1,0 +1,4 @@
+cry
+shout
+scream
+call

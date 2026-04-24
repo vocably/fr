@@ -1,0 +1,4 @@
+time
+weather
+season
+period

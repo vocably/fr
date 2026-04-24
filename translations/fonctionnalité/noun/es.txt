@@ -1,0 +1,3 @@
+funcionalidad
+característica
+función

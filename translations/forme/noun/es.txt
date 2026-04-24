@@ -1,0 +1,4 @@
+forma
+estado
+figura
+molde
