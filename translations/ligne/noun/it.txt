@@ -1,0 +1,4 @@
+linea
+riga
+fila
+sagoma

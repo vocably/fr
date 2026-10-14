@@ -1,0 +1,4 @@
+forces
+is forcing
+strains
+overdoes

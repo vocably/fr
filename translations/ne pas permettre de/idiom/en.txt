@@ -1,0 +1,2 @@
+not allow
+not permit

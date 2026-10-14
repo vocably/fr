@@ -1,0 +1,4 @@
+are
+sum
+amount
+demand

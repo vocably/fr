@@ -1,0 +1,4 @@
+crate
+cash register
+car
+drum kit

@@ -1,0 +1,4 @@
+weighs
+is weighing
+has weight
+is a burden

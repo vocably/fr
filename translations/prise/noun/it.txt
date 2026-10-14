@@ -1,0 +1,4 @@
+presa
+cattura
+connessione
+bocchetta

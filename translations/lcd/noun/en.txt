@@ -1,0 +1,2 @@
+LCD
+liquid crystal display

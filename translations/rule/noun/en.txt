@@ -1,0 +1,3 @@
+rule
+ruler
+period

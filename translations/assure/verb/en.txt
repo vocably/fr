@@ -1,0 +1,4 @@
+ensure
+guarantee
+insure
+affirm

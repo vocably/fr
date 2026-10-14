@@ -1,0 +1,3 @@
+slender
+svelte
+graceful

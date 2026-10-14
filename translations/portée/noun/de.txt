@@ -1,0 +1,5 @@
+die Reichweite
+der Umfang
+der Wurf
+das Tragverhalten
+die Notenlinie

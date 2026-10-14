@@ -1,0 +1,4 @@
+ordine
+comando
+disposizione
+categoria

@@ -1,0 +1,3 @@
+lapses
+errors
+strayings

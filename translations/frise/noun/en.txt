@@ -1,0 +1,3 @@
+frieze
+border
+frieze fabric

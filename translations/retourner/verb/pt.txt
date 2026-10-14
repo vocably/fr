@@ -1,0 +1,4 @@
+retornar
+voltar
+virar
+devolver

@@ -1,0 +1,4 @@
+die Sekunde
+die Untersekunde
+die Zehntelsekunde
+die Hundertstelsekunde

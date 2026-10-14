@@ -1,0 +1,4 @@
+side
+aspect
+direction
+way

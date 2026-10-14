@@ -1,0 +1,5 @@
+home
+household
+fireplace
+focus
+hearth

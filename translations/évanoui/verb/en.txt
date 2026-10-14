@@ -1,0 +1,3 @@
+fainted
+passed out
+faded

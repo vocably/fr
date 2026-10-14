@@ -1,0 +1,4 @@
+currency
+money
+change
+coin

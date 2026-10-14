@@ -1,0 +1,4 @@
+strips
+bands
+gangs
+comics

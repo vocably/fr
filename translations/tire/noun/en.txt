@@ -1,0 +1,5 @@
+pull
+shot
+draw
+minting
+printing

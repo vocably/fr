@@ -1,0 +1,3 @@
+piatto
+scodella
+vassoio

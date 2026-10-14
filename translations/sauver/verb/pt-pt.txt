@@ -1,0 +1,4 @@
+salvar
+poupar
+socorrer
+preservar

@@ -1,0 +1,4 @@
+der Knoten
+der Punkt
+der Knackpunkt
+die Seemeile pro Stunde

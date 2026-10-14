@@ -1,0 +1,5 @@
+azione
+quota
+partecipazione
+causa
+procedimento

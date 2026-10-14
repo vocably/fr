@@ -1,0 +1,4 @@
+box
+lodge
+booth
+caretaker's room

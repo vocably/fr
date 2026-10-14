@@ -1,0 +1,4 @@
+grip
+hold
+outlet
+shot

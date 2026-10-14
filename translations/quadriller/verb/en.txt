@@ -1,0 +1,3 @@
+to grid
+to crisscross
+to comb

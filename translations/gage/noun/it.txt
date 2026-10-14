@@ -1,0 +1,3 @@
+pegno
+garanzia
+cauzione

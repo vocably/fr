@@ -1,0 +1,4 @@
+signals
+points out
+reports
+indicates

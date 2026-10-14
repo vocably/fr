@@ -1,0 +1,4 @@
+stings
+bites
+injections
+pricks

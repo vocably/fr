@@ -1,0 +1,3 @@
+set boundaries
+set limits
+draw the line

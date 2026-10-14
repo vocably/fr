@@ -1,0 +1,4 @@
+thick
+dense
+heavy
+coarse

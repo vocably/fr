@@ -1,0 +1,3 @@
+pledge
+token
+earnest

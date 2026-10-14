@@ -1,0 +1,2 @@
+queen-size bed
+double bed

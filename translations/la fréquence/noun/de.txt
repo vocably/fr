@@ -1,0 +1,4 @@
+die Frequenz
+die Häufigkeit
+die Wiederholungsrate
+die Schwingungszahl

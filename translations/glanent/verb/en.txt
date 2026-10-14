@@ -1,0 +1,3 @@
+glean
+gather
+collect

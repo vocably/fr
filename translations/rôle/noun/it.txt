@@ -1,0 +1,3 @@
+ruolo
+parte
+funzione

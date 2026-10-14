@@ -1,0 +1,4 @@
+turn
+fire
+transfer
+change

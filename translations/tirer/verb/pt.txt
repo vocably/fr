@@ -1,0 +1,5 @@
+puxar
+atirar
+sacar
+imprimir
+sortear

@@ -1,0 +1,4 @@
+Tragweite
+Reichweite
+Wurfweite
+Wurfbereich

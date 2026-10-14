@@ -1,0 +1,4 @@
+negative
+bad
+unfavorable
+harmful

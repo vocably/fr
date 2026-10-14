@@ -1,0 +1,4 @@
+buzz
+ring
+hum
+whir

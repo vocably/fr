@@ -1,0 +1,3 @@
+traversed
+scanned
+covered

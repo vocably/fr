@@ -1,0 +1,3 @@
+die Iteration
+die Wiederholung
+die Schleife

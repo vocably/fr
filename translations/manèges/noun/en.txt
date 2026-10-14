@@ -1,0 +1,5 @@
+rides
+carousels
+merry-go-rounds
+manege
+schemes

@@ -1,0 +1,5 @@
+part
+coin
+play
+room
+document

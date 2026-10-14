@@ -1,0 +1,4 @@
+flesh
+meat
+pulp
+skin

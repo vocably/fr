@@ -1,0 +1,4 @@
+mark
+score
+indicate
+characterize

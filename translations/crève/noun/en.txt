@@ -1,0 +1,3 @@
+flu
+cold
+exhaustion

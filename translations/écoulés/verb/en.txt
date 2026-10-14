@@ -1,0 +1,3 @@
+passed
+elapsed
+sold

@@ -1,0 +1,3 @@
+cleanness
+sharpness
+clarity

@@ -1,0 +1,4 @@
+reservieren
+buchen
+freihalten
+sich vorbehalten

@@ -1,0 +1,3 @@
+unseal
+unseal the document
+unseal the door
